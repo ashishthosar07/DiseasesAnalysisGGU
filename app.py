@@ -55,7 +55,7 @@ def get_age_group(age):
     elif age < 50: return '30-49'
     else: return '50+'
 
-tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Age Analysis", "Disease Distribution", "Patient Diseases Comorbidity Matrix"])
+tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Age Analysis", "Disease Distribution", "Comorbidity Matrix"])
 
 # Tab 1: Overview
 with tab1:
@@ -105,7 +105,7 @@ with tab2:
         #age_groups = df_clean.loc[(df_clean['age'] >= min_age) & (df_clean['age'] <= max_age), ["id"]].value_counts().reset_index()
         age_groups.columns = ['Patient Count', 'Count']
         #print(age_groups)
-        fig = px.pie(age_groups, names='Count', values='Patient Count', title="Each Patients Diseases Count")
+        fig = px.pie(age_groups, names='Count', values='Patient Count', title="ICD Code Distribution")
         st.plotly_chart(fig)
 
         
@@ -179,7 +179,7 @@ with tab3:
 
 # Tab 4: Disease Comorbidity Matrix
 with tab4:
-    st.title("Disease Co-occurrence Comorbidity Matrix")
+    st.title("Comorbidity Matrix")
     #filter_list = ['E11.9', 'E78.5', 'E66.9', 'E78.2', 'R73.03', 'K21.9', 'M54.50', 'E78.49', 'E03.9']
     filter_list = filtered_df_clean['Codes'].dropna().value_counts().head(10).index
     selected_codes = st.multiselect("Select ICD Codes", options=filter_list, default=filter_list[:3])
@@ -190,7 +190,7 @@ with tab4:
         if not df_filtered.empty:
             df_pivot = pd.pivot_table(df_filtered[['id', 'ICD_code']], index="id", columns="ICD_code", aggfunc=lambda x: 1, fill_value=0)
             disease_counts = df_pivot.T @ df_pivot
-            fig = px.imshow(disease_counts, text_auto=True, aspect="auto", title="Comorbidity Matrix of Patient Count by Disease")
+            fig = px.imshow(disease_counts, text_auto=True, aspect="auto", title="Comorbidity Matrix")
             st.plotly_chart(fig)
         else:
             st.warning("No data matches the selected filters.")
