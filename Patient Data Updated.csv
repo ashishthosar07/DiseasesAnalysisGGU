@@ -1,0 +1,1501 @@
+id,birthdate,ICD_code
+1,8/21/1986,(Z00.00) Encntr for general adult medical exam w/o abnormal finding\\\\\
+2,4/16/1999,"(J02.9) Acute pharyngitis, unspecified, (E10.9) Type 1 diabetes mellitus without complications"
+3,12/5/1978,"(E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension"
+4,10/2/1989,0
+5,1/11/1996,"(H61.22) Impacted cerumen, left ear"
+6,9/11/1976,0
+7,11/10/1995,"(N91.2) Amenorrhea, unspecified, (E28.2) Polycystic ovarian syndrome"
+8,1/31/1983,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (I49.9) Cardiac arrhythmia, unspecified"
+9,1/1/1932,"(E46) Unspecified protein-calorie malnutrition, (F03.90) Unspecified dementia without behavioral disturbance, (F09) Unsp mental disorder due to known physiological condition"
+10,5/26/1974,0
+11,10/1/1958,"(H40.9) Unspecified glaucoma, (E11.9) Type 2 diabetes mellitus without complications"
+12,1/17/1951,"(I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (R60.0) Localized edema"
+13,8/23/1996,"(J01.00) Acute maxillary sinusitis, unspecified"
+14,12/13/1985,"(G44.319) Acute post-traumatic headache, not intractable"
+15,9/27/1987,0
+16,1/20/1965,"(R60.0) Localized edema, (L29.8) Other pruritus, (M31.6) Other giant cell arteritis"
+17,6/9/1969,"(A63.0) Anogenital (venereal) warts, (R30.0) Dysuria, (M76.51) Patellar tendinitis, right knee, (M70.52) Other bursitis of knee, left knee"
+18,4/11/1964,0
+19,1/13/1971,"(V89.2XXD) Person injured in unspecified motor-vehicle accident, traffic, subsequent encounter, (I10) Essential (primary) hypertension"
+20,8/9/1990,0
+21,3/4/1980,"(M51.9) Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder, (M51.9) Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder"
+22,2/18/1991,(E10.65) Type 1 diabetes mellitus with hyperglycemia
+23,4/17/1992,"(H61.23) Impacted cerumen, bilateral, (R53.83) Other fatigue, (L81.4) Other melanin hyperpigmentation"
+24,5/11/1976,"(E66.9) Obesity, unspecified, (E78.2) Mixed hyperlipidemia, (G47.33) Obstructive sleep apnea (adult) (pediatric), (E78.5) Hyperlipidemia, unspecified, (R73.01) Impaired fasting glucose"
+25,12/22/1963,"(B18.1) Chronic viral hepatitis B without delta-agent, (S70.01XA) Contusion of right hip, initial encounter, (I10) Essential (primary) hypertension"
+26,12/6/1985,0
+27,7/30/1948,"(I10) Essential (primary) hypertension, (E08.65) Diabetes mellitus due to underlying condition with hyperglycemia"
+28,12/24/1973,"(R51.9) Headache, unspecified, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+29,7/27/1971,"(G89.29) Other chronic pain, (F43.12) Post-traumatic stress disorder, chronic"
+30,3/23/1972,"(M75.22) Bicipital tendinitis, left shoulder, (L21.9) Seborrheic dermatitis, unspecified, (R74.01) Elevation of levels of liver transaminase levels, (R73.09) Other abnormal glucose, (E78.5) Hyperlipidemia, unspecified"
+31,6/3/1972,"(H11.003) Unspecified pterygium of eye, bilateral, (M54.31) Sciatica, right side, (M54.12) Radiculopathy, cervical region, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R73.01) Impaired fasting glucose"
+32,9/19/1982,0
+33,6/20/1985,(R10.12) Left upper quadrant pain
+34,6/27/1978,0
+35,1/28/1953,0
+36,5/13/1931,"(R10.84) Generalized abdominal pain, (N18.3) Chronic kidney disease, stage 3 (moderate), (K29.50) Unspecified chronic gastritis without bleeding"
+37,2/5/1966,"(N64.4) Mastodynia, (K40.90) Unil inguinal hernia, w/o obst or gangr, not spcf as recur, (R19.5) Other fecal abnormalities, (F41.8) Other specified anxiety disorders, (M21.6X9) Other acquired deformities of unspecified foot"
+38,4/3/1970,0
+39,4/10/1973,"(N95.1) Menopausal and female climacteric states, (E66.3) Overweight, (E78.5) Hyperlipidemia, unspecified"
+40,4/23/1992,"(E66.3) Overweight, (F34.1) Dysthymic disorder, (G47.39) Other sleep apnea, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R09.81) Nasal congestion"
+41,1/26/1946,"(I63.50) Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery, (E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (M54.30) Sciatica, unspecified side"
+42,10/13/1979,(E11.9) Type 2 diabetes mellitus without complications
+43,8/2/1959,"(M79.651) Pain in right thigh, (H81.10) Benign paroxysmal vertigo, unspecified ear, (M17.0) Bilateral primary osteoarthritis of knee, (F41.1) Generalized anxiety disorder, (G50.01) Trigeminal neuralgia, (E66.9) Obesity, unspecified"
+44,10/17/2002,"(I51.89) Other ill-defined heart diseases, (E03.8) Other specified hypothyroidism, (N93.9) Abnormal uterine and vaginal bleeding, unspecified"
+45,12/2/1976,"(R63.4) Abnormal weight loss, (Z78.9) Other specified health status"
+46,11/8/1991,0
+47,5/11/1971,"(I10) Essential (primary) hypertension, (M54.6) Pain in thoracic spine, (R51) Headache, (M25.562) Pain in left knee, (Z86.11) Personal history of tuberculosis"
+48,3/7/1967,0
+49,9/26/1984,"(K59.00) Constipation, unspecified"
+50,8/13/1983,"(J18.8) Other pneumonia, unspecified organism"
+51,7/1/1973,"(E78.2) Mixed hyperlipidemia, (S93.402A) Sprain of unspecified ligament of left ankle, init encntr, (M25.561) Pain in right knee, (R73.03) Prediabetes, (I10) Essential (primary) hypertension, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+52,6/9/1973,"(J20.9) Acute bronchitis, unspecified, (M51.9) Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder, (M54.31) Sciatica, right side"
+53,1/1/1954,0
+54,11/8/1958,"(H61.23) Impacted cerumen, bilateral, (H91.93) Unspecified hearing loss, bilateral"
+55,1/16/1985,"(L21.0) Seborrhea capitis, (B35.1) Tinea unguium"
+56,4/1/1970,"(E78.5) Hyperlipidemia, unspecified, (R73.03) Prediabetes, (I20.89) Other forms of angina pectoris, (M10.9) Gout, unspecified, (R82.81) Pyuria, (R73.01) Impaired fasting glucose"
+57,10/2/1951,"(S62.393D) Oth fx third MC bone, left hand, subs for fx w routn heal, (S62.395D) Oth fx fourth MC bone, left hand, subs for fx w routn heal"
+58,5/8/2003,"(Z68.25) Body mass index (BMI) 25.0-25.9, adult"
+59,6/18/1991,0
+60,9/16/1997,"(K20.80) Other esophagitis without bleeding, (R10.11) Right upper quadrant pain"
+61,6/13/1996,0
+62,1/18/1968,0
+63,9/25/1952,0
+64,4/18/1975,0
+65,1/6/1966,"(R03.0) Elevated blood-pressure reading, w/o diagnosis of htn, (R00.0) Tachycardia, unspecified, (R73.09) Other abnormal glucose"
+66,12/20/1977,(R00.2) Palpitations
+67,7/9/1992,0
+68,11/20/1986,"(N92.0) Excessive and frequent menstruation with regular cycle, (N94.6) Dysmenorrhea, unspecified, (D25.9) Leiomyoma of uterus, unspecified, (F41.9) Anxiety disorder, unspecified, (I10) Essential (primary) hypertension"
+69,11/22/1971,0
+70,5/23/1961,"(E11.9) Type 2 diabetes mellitus without complications, (I63.9) Cerebral infarction, unspecified, (I10) Essential (primary) hypertension"
+71,1/25/1950,"(H81.10) Benign paroxysmal vertigo, unspecified ear"
+72,5/17/1958,"(I10) Essential (primary) hypertension, (K30) Functional dyspepsia, (E11.9) Type 2 diabetes mellitus without complications, (M10.9) Gout, unspecified, (N39.0) Urinary tract infection, site not specified, (E78.5) Hyperlipidemia, unspecified"
+73,4/3/1976,"(R20.0) Anesthesia of skin, (R19.5) Other fecal abnormalities, (M79.644) Pain in right finger(s), (Z98.82) Breast implant status, (I73.00) Raynaud's syndrome without gangrene"
+74,3/31/1987,"(I10) Essential (primary) hypertension, (W57.XXXA) Bit/stung by nonvenom insect & oth nonvenom arthropods, init, (E66.3) Overweight"
+75,2/17/1987,"(R04.0) Epistaxis, (K27.5) Chronic or unspecified peptic ulcer, site unspecified, with perforation, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R10.84) Generalized abdominal pain"
+76,8/20/1973,"(K64.9) Unspecified hemorrhoids, (L91.8) Other hypertrophic disorders of the skin"
+77,10/29/1972,"(J30.89) Other allergic rhinitis, (R73.09) Other abnormal glucose, (E78.49) Other hyperlipidemia, (R74.01) Elevation of levels of liver transaminase levels"
+78,10/20/1976,"(R91.8) Other nonspecific abnormal finding of lung field, (K59.00) Constipation, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+79,4/5/1998,"(Z79.3) Long term (current) use of hormonal contraceptives, (L63.9) Alopecia areata, unspecified, (Z01.419) Encntr for gyn exam (general) (routine) w/o abn findings"
+80,12/14/1946,"(E11.9) Type 2 diabetes mellitus without complications, (I45.4) Nonspecific intraventricular block, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified"
+81,8/21/1989,"(L28.0) Lichen simplex chronicus, (L50.9) Urticaria, unspecified, (E78.1) Pure hyperglyceridemia, (L20.89) Other atopic dermatitis"
+82,4/8/1981,0
+83,9/17/1997,0
+84,1/3/1963,"(E03.9) Hypothyroidism, unspecified, (R73.03) Prediabetes, (R39.89) Other symptoms and signs involving the genitourinary system, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+85,6/1/1983,0
+86,5/28/1985,"(R20.2) Paresthesia of skin, (D17.1) Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk"
+87,9/3/1954,"(N95.0) Postmenopausal bleeding, (M54.50) Low back pain, unspecified, (F41.9) Anxiety disorder, unspecified, (L29.9) Pruritus, unspecified"
+88,6/18/1943,0
+89,5/6/1994,(J35.1) Hypertrophy of tonsils
+90,3/12/1966,"(I10) Essential (primary) hypertension, (E66.9) Obesity, unspecified"
+91,1/18/1985,(R79.89) Other specified abnormal findings of blood chemistry
+92,9/6/1980,0
+93,5/10/1979,"(I10) Essential (primary) hypertension, (N02.B9) Other recurrent and persistent immunoglobulin A nephropathy"
+94,3/13/1991,(E11.9) Type 2 diabetes mellitus without complications
+95,3/20/1975,"(D56.3) Thalassemia minor, (E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications"
+96,7/4/1967,"(K40.90) Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent, (K74.60) Unspecified cirrhosis of liver"
+97,10/25/1992,0
+98,8/13/1976,"(R73.9) Hyperglycemia, unspecified, (L25.9) Unspecified contact dermatitis, unspecified cause, (E78.5) Hyperlipidemia, unspecified, (R73.03) Prediabetes, (N40.1) Benign prostatic hyperplasia with lower urinary tract symp"
+99,1/29/2000,"(R22.1) Localized swelling, mass and lump, neck, (Q21.20) Atrioventricular septal defect, unsp as to part or complete"
+100,10/6/1977,"(H40.10X0) Unspecified open-angle glaucoma, stage unspecified, (R07.89) Other chest pain"
+101,2/18/1975,"(S01.319A) Laceration without foreign body of unspecified ear, initial encounter"
+102,8/22/1981,"(E10.8) Type 1 diabetes mellitus with unspecified complications, (E78.2) Mixed hyperlipidemia, (N39.0) Urinary tract infection, site not specified, (I25.2) Old myocardial infarction, (M54.9) Dorsalgia, unspecified, (I10) Essential (primary) hypertension"
+103,4/28/1960,"(B00.2) Herpesviral gingivostomatitis and pharyngotonsillitis, (R05) Cough, (Z91.09) Oth allergy status, oth than to drugs and biolg substances"
+104,5/29/1964,"(E11.40) Type 2 diabetes mellitus with diabetic neuropathy, unspecified, (R31.2) Other microscopic hematuria"
+105,9/18/1997,"(M79.1) Myalgia, (N61.0) Mastitis without abscess"
+106,3/30/1981,"(R94.5) Abnormal results of liver function studies, (E66.9) Obesity, unspecified, (R73.03) Prediabetes, (M25.511) Pain in right shoulder, (E78.5) Hyperlipidemia, unspecified, (F41.1) Generalized anxiety disorder"
+107,7/29/1982,0
+108,10/26/1955,"(R35.0) Frequency of micturition, (M10.00) Idiopathic gout, unspecified site, (I10) Essential (primary) hypertension, (R73.03) Prediabetes, (I10) Essential (primary) hypertension, (B86) Scabies"
+109,4/11/1972,"(L40.9) Psoriasis, unspecified, (R05.3) Chronic cough"
+110,5/2/1966,"(J30.89) Other allergic rhinitis, (H52.4) Presbyopia"
+111,7/20/1971,"(E78.0) Pure hypercholesterolemia, (R10.9) Unspecified abdominal pain, (M10.9) Gout, unspecified, (R35.0) Frequency of micturition"
+112,6/5/1977,"(G90.513) Complex regional pain syndrome I of upper limb, bilateral"
+113,4/8/1985,"(R03.0) Elevated blood-pressure reading, w/o diagnosis of htn, (I10) Essential (primary) hypertension, (L40.0) Psoriasis vulgaris"
+114,12/9/1998,"(L23.9) Allergic contact dermatitis, unspecified cause, (L24.9) Irritant contact dermatitis, unspecified cause"
+115,10/27/1972,(E78.0) Pure hypercholesterolemia
+116,9/19/1990,0
+117,6/14/1961,"(I10) Essential (primary) hypertension, (R21) Rash and other nonspecific skin eruption, (R41.89) Oth symptoms and signs w cognitive functions and awareness, (J30.89) Other allergic rhinitis, (H66.42) Suppurative otitis media, unspecified, left ear"
+118,11/11/1966,"(E66.3) Overweight, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (E03.9) Hypothyroidism, unspecified, (M19.071) Primary osteoarthritis, right ankle and foot"
+119,3/1/1956,(R63.4) Abnormal weight loss
+120,1/29/1979,"(E66.9) Obesity, unspecified, (M65.4) Radial styloid tenosynovitis [de Quervain]"
+121,3/9/1974,0
+122,8/23/1956,"(R32) Unspecified urinary incontinence, (M54.5) Low back pain, (E78.5) Hyperlipidemia, unspecified, (R87.610) Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US), (K62.5) Hemorrhage of anus and rectum"
+123,9/17/1992,"(Z68.34) Body mass index (BMI) 34.0-34.9, adult, (J30.2) Other seasonal allergic rhinitis, (H92.02) Otalgia, left ear"
+124,1/24/1995,"(L65.9) Nonscarring hair loss, unspecified, (Q82.8) Other specified congenital malformations of skin, (M26.60) Temporomandibular joint disorder, unspecified"
+125,2/25/1979,0
+126,12/12/1967,"(E78.2) Mixed hyperlipidemia, (M76.60) Achilles tendinitis, unspecified leg, (L83) Acanthosis nigricans"
+127,4/8/1983,0
+128,5/27/1970,"(S61.411A) Laceration without foreign body of right hand, init encntr"
+129,11/7/1961,(E11.9) Type 2 diabetes mellitus without complications
+130,7/7/1964,"(E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications"
+131,2/14/1992,"(J44.9) Chronic obstructive pulmonary disease, unspecified, (F17.200) Nicotine dependence, unspecified, uncomplicated"
+132,1/27/1970,"(F33.8) Other recurrent depressive disorders, (I10) Essential (primary) hypertension"
+133,2/17/1999,"(E03.9) Hypothyroidism, unspecified"
+134,9/1/2003,"(Z68.28) Body mass index (BMI) 28.0-28.9, adult, (Z11.8) Encounter for screening for oth infec/parastc diseases"
+135,5/4/1978,"(E66.9) Obesity, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+136,4/6/1960,0
+137,8/24/1965,(N84.1) Polyp of cervix uteri
+138,6/6/1983,"(M54.50) Low back pain, unspecified"
+139,9/2/1978,"(R10.13) Epigastric pain, (B96.81) Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere"
+140,6/29/1985,"(E78.5) Hyperlipidemia, unspecified, (L90.5) Scar conditions and fibrosis of skin, (R73.01) Impaired fasting glucose"
+141,1/13/1939,0
+142,5/28/1973,0
+143,11/10/1963,"(R22.31) Localized swelling, mass and lump, right upper limb"
+144,6/30/1947,"(I10) Essential (primary) hypertension, (I63.9) Cerebral infarction, unspecified"
+145,10/21/1983,"(B00.2) Herpesviral gingivostomatitis and pharyngotonsillitis, (D70.9) Neutropenia, unspecified"
+146,5/1/1987,"(E04.1) Nontoxic single thyroid nodule, (E06.9) Thyroiditis, unspecified, (N93.9) Abnormal uterine and vaginal bleeding, unspecified"
+147,1/28/1968,"(M94.0) Chondrocostal junction syndrome [Tietze], (E78.5) Hyperlipidemia, unspecified"
+148,12/15/1993,0
+149,3/10/1977,"(R51.9) Headache, unspecified, (Z22.7) Latent tuberculosis"
+150,7/6/1961,(I10) Essential (primary) hypertension
+151,3/9/1998,0
+152,8/13/1973,"(N52.9) Male erectile dysfunction, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (F32.9) Major depressive disorder, single episode, unspecified, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified"
+153,1/1/1947,"(R73.03) Prediabetes, (Z00.00) Encntr for general adult medical exam w/o abnormal findings, (K59.00) Constipation, unspecified"
+154,2/5/1973,0
+155,3/8/1970,"(G81.90) Hemiplegia, unspecified affecting unspecified side, (I10) Essential (primary) hypertension, (I63.9) Cerebral infarction, unspecified, (E66.9) Obesity, unspecified"
+156,1/8/1987,0
+157,2/25/1993,"(G47.30) Sleep apnea, unspecified, (E78.5) Hyperlipidemia, unspecified, (E66.9) Obesity, unspecified, (R70.0) Elevated erythrocyte sedimentation rate"
+158,3/8/1949,"(R21) Rash and other nonspecific skin eruption, (N17.9) Acute kidney failure, unspecified, (I50.21) Acute systolic (congestive) heart failure, (M20.021) Boutonniere deformity of right finger(s)"
+159,3/20/1983,0
+160,5/14/1954,0
+161,12/15/1970,"(M54.50) Low back pain, unspecified, (L28.0) Lichen simplex chronicus"
+162,7/6/1993,"(K27.9) Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation, (K59.00) Constipation, unspecified, (R14.0) Abdominal distension (gaseous), (D50.9) Iron deficiency anemia, unspecified"
+163,8/9/1964,"(Z95.5) Presence of coronary angioplasty implant and graft, (E78.5) Hyperlipidemia, unspecified, (I25.2) Old myocardial infarction, (R73.9) Hyperglycemia, unspecified"
+164,11/15/1972,"(F17.218) Nicotine dependence, cigarettes, with other nicotine-induced disorders, (E66.9) Obesity, unspecified"
+165,6/13/1964,"(T28.0XXA) Burn of mouth and pharynx, initial encounter"
+166,7/17/1984,0
+167,3/29/1962,0
+168,12/10/1971,"(E78.49) Other hyperlipidemia, (R07.9) Chest pain, unspecified"
+169,1/1/1972,0
+170,8/28/1986,0
+171,5/11/2000,"(M54.5) Low back pain, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+172,3/25/1983,"(F32.A) Depression, unspecified, (E78.4) Other hyperlipidemia, (M25.562) Pain in left knee, (G47.30) Sleep apnea, unspecified, (R51.9) Headache, unspecified, (R74.01) Elevation of levels of liver transaminase levels, (R53.82) Chronic fatigue, unspecified"
+173,9/17/1956,0
+174,5/26/1964,"(E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R07.2) Precordial pain"
+175,10/26/1979,0
+176,12/29/1994,"(I10) Essential (primary) hypertension, (R25.1) Tremor, unspecified, (Z86.15) Personal history of latent tuberculosis infection"
+177,2/22/1997,0
+178,10/25/1984,0
+179,8/21/1969,"(R73.03) Prediabetes, (I10) Essential (primary) hypertension"
+180,5/6/1954,0
+181,5/8/1976,"(N92.4) Excessive bleeding in the premenopausal period, (K21.01) Gastro-esophageal reflux dis with esophagitis, with bleed, (N85.00) Endometrial hyperplasia, unspecified, (D50.9) Iron deficiency anemia, unspecified"
+182,8/18/1981,"(M22.2X2) Patellofemoral disorders, left knee"
+183,10/16/1994,"(Z31.41) Encounter for fertility testing, (N92.5) Other specified irregular menstruation"
+184,2/11/1979,"(F32.A) Depression, unspecified, (A74.9) Chlamydial infection, unspecified, (F41.9) Anxiety disorder, unspecified, (Z86.59) Personal history of other mental and behavioral disorders, (B97.7) Papillomavirus as the cause of diseases classified elsewhere"
+185,9/5/1995,0
+186,10/8/1944,"(D64.89) Other specified anemias, (I50.20) Unspecified systolic (congestive) heart failure, (I10) Essential (primary) hypertension, (E78.49) Other hyperlipidemia, (N17.9) Acute kidney failure, unspecified"
+187,3/6/1993,0
+188,6/29/1993,"(D17.1) Benign lipomatous neoplasm of skin, subcu of trunk"
+189,11/2/1986,0
+190,6/25/1953,"(R51.9) Headache, unspecified, (N64.4) Mastodynia"
+191,9/30/1965,"(M16.11) Unilateral primary osteoarthritis, right hip, (R10.2) Pelvic and perineal pain"
+192,5/23/1941,"(E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (R07.82) Intercostal pain, (E11.9) Type 2 diabetes mellitus without complications, (E03.9) Hypothyroidism, unspecified, (R05) Cough"
+193,12/24/1993,0
+194,1/1/1947,"(I10) Essential (primary) hypertension, (H54.2X11) Low vision r eye category 1, low vision left eye category 1, (R07.89) Other chest pain, (E78.5) Hyperlipidemia, unspecified, (M54.50) Low back pain, unspecified"
+195,12/20/1997,0
+196,3/8/1982,"(F41.1) Generalized anxiety disorder, (M54.6) Pain in thoracic spine, (E78.2) Mixed hyperlipidemia, (H53.30) Unspecified disorder of binocular vision"
+197,11/30/1976,"(L30.9) Dermatitis, unspecified"
+198,7/30/1942,"(E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (R41.81) Age-related cognitive decline"
+199,1/7/1985,"(K29.70) Gastritis, unspecified, without bleeding, (L70.9) Acne, unspecified"
+200,2/7/1970,"(R73.9) Hyperglycemia, unspecified, (R03.0) Elevated blood-pressure reading, w/o diagnosis of htn, (K60.0) Acute anal fissure"
+201,7/14/2004,"(R51.9) Headache, unspecified"
+202,3/10/1979,0
+203,9/1/1956,0
+204,3/28/1951,0
+205,2/16/1974,"(Z53.31) Laparoscopic surgical procedure converted to open procedure, (T81.30XA) Disruption of wound, unspecified, initial encounter"
+206,6/28/1962,"(R51.9) Headache, unspecified"
+207,12/3/1955,(I10) Essential (primary) hypertension
+208,11/24/1920,(I10) Essential (primary) hypertension
+209,7/25/1979,"(E11.9) Type 2 diabetes mellitus without complications, (M54.50) Low back pain, unspecified, (J45.30) Mild persistent asthma, uncomplicated"
+210,12/12/1957,"(E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension"
+211,10/30/1993,"(H65.191) Other acute nonsuppurative otitis media, right ear"
+212,1/7/1981,"(Z00.00) Encntr for general adult medical exam w/o abnormal findings, (M62.838) Other muscle spasm, (R79.9) Abnormal finding of blood chemistry, unspecified, (B53.8) Other malaria, not elsewhere classified"
+213,10/9/1976,(Z00.00) Encntr for general adult medical exam w/o abnormal findings
+214,3/18/1996,"(Z68.29) Body mass index (BMI) 29.0-29.9, adult, (N30.00) Acute cystitis without hematuria, (N94.1) Dyspareunia"
+215,1/2/1972,"(E11.9) Type 2 diabetes mellitus without complications, (F10.21) Alcohol dependence, in remission"
+216,1/1/1975,"(N80.9) Endometriosis, unspecified, (J02.9) Acute pharyngitis, unspecified, (J40) Bronchitis, not specified as acute or chronic"
+217,5/2/1957,0
+218,2/28/1983,0
+219,4/18/1979,0
+220,10/31/1968,"(E11.9) Type 2 diabetes mellitus without complications, (R10.816) Epigastric abdominal tenderness, (M19.049) Primary osteoarthritis, unspecified hand, (E66.3) Overweight, (R05) Cough, (H40.9) Unspecified glaucoma"
+221,2/9/1987,(R07.82) Intercostal pain
+222,10/19/1968,0
+223,1/1/1966,"(R14.0) Abdominal distension (gaseous), (E03.8) Other specified hypothyroidism, (K59.09) Other constipation"
+224,7/8/1989,0
+225,10/11/1954,(L28.2) Other prurigo
+226,5/3/1983,0
+227,7/14/1959,"(E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified"
+228,4/10/1956,"(E78.0) Pure hypercholesterolemia, (R63.4) Abnormal weight loss, (E11.9) Type 2 diabetes mellitus without complications"
+229,11/12/1950,"(I10) Essential (primary) hypertension, (M54.31) Sciatica, right side"
+230,7/6/1981,(N83.20) Unspecified ovarian cysts
+231,9/2/1970,"(M19.049) Primary osteoarthritis, unspecified hand"
+232,1/10/1992,"(R59.9) Enlarged lymph nodes, unspecified, (R10.30) Lower abdominal pain, unspecified, (K40.90) Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent, (K71.6) Toxic liver disease with hepatitis, not elsewhere classified"
+233,7/6/1977,"(R73.09) Other abnormal glucose, (K76.0) Fatty (change of) liver, not elsewhere classified, (K29.70) Gastritis, unspecified, without bleeding, (R10.13) Epigastric pain"
+234,9/21/1982,"(H01.131) Eczematous dermatitis of right upper eyelid, (D56.9) Thalassemia, unspecified, (R22.9) Localized swelling, mass and lump, unspecified"
+235,6/10/2004,(Z02.89) Encounter for other administrative examinations
+236,4/1/1966,"(D56.9) Thalassemia, unspecified"
+237,10/11/1963,(B02.9) Zoster without complications
+238,11/16/1994,0
+239,3/21/1982,"(F10.99) Alcohol use, unsp with unspecified alcohol-induced disorder"
+240,7/26/1997,(U07.1) COVID Coronavirus
+241,3/25/1957,"(E86.0) Dehydration, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications"
+242,9/2/1979,0
+243,8/28/2001,0
+244,10/31/1961,"(J12.82) Pneumonia due to coronavirus disease 2019, (D75.0) Familial erythrocytosis, (I10) Essential (primary) hypertension, (I47.9) Paroxysmal tachycardia, unspecified"
+245,3/11/1941,"(I10) Essential (primary) hypertension, (H93.12) Tinnitus, left ear"
+246,12/18/1979,"(I10) Essential (primary) hypertension, (B35.6) Tinea cruris"
+247,11/4/1977,"(R14.3) Flatulence, (N40.1) Benign prostatic hyperplasia with lower urinary tract symp, (R73.03) Prediabetes, (R10.9) Unspecified abdominal pain, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (E66.9) Obesity, unspecified"
+248,7/10/1954,0
+249,12/15/1979,(M25.559) Pain in unspecified hip
+250,7/10/1982,"(E11.9) Type 2 diabetes mellitus without complications, (E78.2) Mixed hyperlipidemia"
+251,2/5/1975,"(E78.5) Hyperlipidemia, unspecified, (M75.02) Adhesive capsulitis of left shoulder, (M79.622) Pain in left upper arm, (L91.8) Other hypertrophic disorders of the skin"
+252,11/13/1960,"(K08.8) Other specified disorders of teeth and supporting structures, (E78.0) Pure hypercholesterolemia, (R30.0) Dysuria, (N20.0) Calculus of kidney, (I10) Essential (primary) hypertension"
+253,10/30/1962,0
+254,11/25/1991,0
+255,6/17/1964,"(H92.09) Otalgia, unspecified ear, (R73.9) Hyperglycemia, unspecified, (R03.0) Elevated blood-pressure reading, w/o diagnosis of htn, (R35.0) Frequency of micturition"
+256,10/30/1981,"(Z83.3) Family history of diabetes mellitus, (R10.13) Epigastric pain"
+257,12/19/1987,"(T78.40XA) Allergy, unspecified, initial encounter, (B37.0) Candidal stomatitis"
+258,1/22/1971,"(E08.9) Diabetes mellitus due to underlying condition without complications, (E78.5) Hyperlipidemia, unspecified, (F41.1) Generalized anxiety disorder, (E66.9) Obesity, unspecified"
+259,12/3/1966,"(E78.2) Mixed hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications, (M54.5) Low back pain, (I49.3) Ventricular premature depolarization, (M25.522) Pain in left elbow"
+260,7/24/1973,(Z13.220) Encounter for screening for lipoid disorders
+261,4/9/1992,"(L30.1) Dyshidrosis [pompholyx], (L23.9) Allergic contact dermatitis, unspecified cause"
+262,12/23/1975,"(I10) Essential (primary) hypertension, (E66.9) Obesity, unspecified"
+263,4/25/1979,0
+264,6/29/1986,0
+265,4/29/1987,0
+266,12/14/1953,0
+267,2/15/1969,(N41.1) Chronic prostatitis
+268,11/18/1953,"(N13.9) Obstructive and reflux uropathy, unspecified"
+269,5/22/1987,(R10.9) Unspecified abdominal pain
+270,6/30/1953,0
+271,9/12/2000,(M25.531) Pain in right wrist
+272,4/19/1953,"(E78.2) Mixed hyperlipidemia, (R35.0) Frequency of micturition, (N83.02) Follicular cyst of left ovary, (N83.20) Unspecified ovarian cysts, (D17.1) Benign lipomatous neoplasm of skin, subcu of trunk, (Z87.442) Personal history of urinary calculi"
+273,4/26/1989,0
+274,12/10/1980,0
+275,10/25/1989,"(J01.90) Acute sinusitis, unspecified"
+276,8/19/2000,"(S01.511A) Laceration without foreign body of lip, initial encounter"
+277,11/2/1949,0
+278,4/3/1967,"(I51.7) Cardiomegaly, (C50.919) Malignant neoplasm of unspecified site of unspecified female breast, (R07.82) Intercostal pain"
+279,8/27/1930,"(D64.9) Anemia, unspecified"
+280,12/16/1988,0
+281,9/13/1951,"(G90.09) Other idiopathic peripheral autonomic neuropathy, (M19.09) Primary osteoarthritis, other specified site"
+282,1/8/1995,0
+283,2/12/1980,"(I10) Essential (primary) hypertension, (R74.8) Abnormal levels of other serum enzymes, (E78.2) Mixed hyperlipidemia, (R73.01) Impaired fasting glucose, (E66.9) Obesity, unspecified, (R77.1) Abnormality of globulin"
+284,2/12/1962,"(R10.13) Epigastric pain, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr"
+285,12/12/1966,"(R93.41) Abn radlgc find on dx imaging renal pelv, ureter, or blddr"
+286,8/28/1965,(K21.9) Gastro-esophageal reflux disease without esophagitis
+287,7/7/1998,0
+288,4/13/1983,"(G40.309) Gen idiopathic epilepsy, not intractable, w/o stat epi"
+289,6/24/1965,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications"
+290,4/27/1963,"(F17.200) Nicotine dependence, unspecified, uncomplicated, (E03.8) Other specified hypothyroidism, (R91.1) Solitary pulmonary nodule, (R06.2) Wheezing"
+291,8/20/1978,0
+292,12/25/1958,"(E78.5) Hyperlipidemia, unspecified, (M13.80) Other specified arthritis, unspecified site"
+293,1/3/1978,"(N87.0) Mild cervical dysplasia, (R07.9) Chest pain, unspecified, (R73.01) Impaired fasting glucose"
+294,3/24/1969,(I10) Essential (primary) hypertension
+295,10/31/1999,"(M54.50) Low back pain, unspecified, (L72.0) Epidermal cyst, (M54.6) Pain in thoracic spine"
+296,1/1/1990,0
+297,6/22/1987,"(I10) Essential (primary) hypertension, (H57.12) Ocular pain, left eye, (E66.9) Obesity, unspecified, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr"
+298,1/5/1946,0
+299,9/29/1972,(M79.643) Pain in unspecified hand
+300,11/10/1977,"(J30.9) Allergic rhinitis, unspecified"
+301,10/28/1993,"(Z86.2) Personal history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism, (Z83.3) Family history of diabetes mellitus, (R94.6) Abnormal results of thyroid function studies"
+302,5/12/1989,0
+303,6/1/1955,0
+304,3/28/1967,0
+305,9/13/1979,"(R53.83) Other fatigue, (B07.8) Other viral warts, (I10) Essential (primary) hypertension, (Z68.28) Body mass index (BMI) 28.0-28.9, adult"
+306,8/10/1966,"(K08.8) Other specified disorders of teeth and supporting structures, (E78.0) Pure hypercholesterolemia, (K76.0) Fatty (change of) liver, not elsewhere classified, (E11.9) Type 2 diabetes mellitus without complications"
+307,12/20/1994,"(E10.8) Type 1 diabetes mellitus with unspecified complications, (E10.10) Type 1 diabetes mellitus with ketoacidosis without coma"
+308,3/11/1999,"(Z00.8) Encounter for other general examination, (M25.571) Pain in right ankle and joints of right foot"
+309,10/31/1973,"(L29.9) Pruritus, unspecified, (K64.9) Unspecified hemorrhoids, (B35.1) Tinea unguium, (B00.9) Herpesviral infection, unspecified"
+310,8/7/1943,"(Z79.4) Long term (current) use of insulin, (Z89.511) Acquired absence of right leg below knee"
+311,6/12/1969,0
+312,7/29/1976,"(K62.5) Hemorrhage of anus and rectum, (G56.03) Carpal tunnel syndrome, bilateral upper limbs, (E78.5) Hyperlipidemia, unspecified, (M25.569) Pain in unspecified knee, (M25.50) Pain in unspecified joint"
+313,2/25/1972,(K58.9) Irritable bowel syndrome without diarrhea
+314,12/18/1997,"(Z68.33) Body mass index (BMI) 33.0-33.9, adult, (L63.9) Alopecia areata, unspecified"
+315,3/29/1978,"(E78.0) Pure hypercholesterolemia, (J34.89) Other specified disorders of nose and nasal sinuses, (I10) Essential (primary) hypertension"
+316,10/13/1965,"(E78.5) Hyperlipidemia, unspecified, (E11.29) Type 2 diabetes mellitus with other diabetic kidney complication, (I10) Essential (primary) hypertension, (D56.3) Thalassemia minor, (E66.9) Obesity, unspecified"
+317,2/11/1963,"(E03.9) Hypothyroidism, unspecified, (R13.13) Dysphagia, pharyngeal phase"
+318,8/29/1991,(I10) Essential (primary) hypertension
+319,8/20/1995,"(L70.0) Acne vulgaris, (L02.93) Carbuncle, unspecified, (L03.211) Cellulitis of face, (L71.9) Rosacea, unspecified, (L03.211) Cellulitis of face, (B37.49) Other urogenital candidiasis"
+320,3/30/1980,"(K59.00) Constipation, unspecified, (G63) Polyneuropathy in diseases classified elsewhere, (R00.2) Palpitations"
+321,7/22/1981,"(M25.512) Pain in left shoulder, (S56.212D) Strain of other flexor muscle, fascia and tendon at forearm level, left arm, subsequent encounter"
+322,4/12/1972,"(E66.9) Obesity, unspecified, (R22.41) Localized swelling, mass and lump, right lower limb"
+323,1/1/1977,"(R10.84) Generalized abdominal pain, (E11.9) Type 2 diabetes mellitus without complications"
+324,3/5/1988,(E28.2) Polycystic ovarian syndrome
+325,7/20/1974,"(J30.9) Allergic rhinitis, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+326,5/8/1963,"(R73.03) Prediabetes, (E78.5) Hyperlipidemia, unspecified"
+327,1/31/1944,"(S52.234A) Nondisplaced oblique fracture of shaft of right ulna, initial encounter for closed fracture, (I10) Essential (primary) hypertension, (M16.0) Bilateral primary osteoarthritis of hip"
+328,8/8/1988,0
+329,4/23/1963,0
+330,8/14/1971,"(A53.9) Syphilis, unspecified, (E66.3) Overweight"
+331,5/28/1967,"(E78.5) Hyperlipidemia, unspecified, (L30.9) Dermatitis, unspecified, (Z22.7) Latent tuberculosis, (R94.5) Abnormal results of liver function studies"
+332,7/28/1956,0
+333,11/3/1956,0
+334,2/17/1966,"(I10) Essential (primary) hypertension, (H60.339) Swimmer's ear, unspecified ear"
+335,3/25/1989,"(K83.9) Disease of biliary tract, unspecified, (R22.9) Localized swelling, mass and lump, unspecified, (R10.13) Epigastric pain"
+336,10/29/1973,"(M10.9) Gout, unspecified"
+337,10/30/1981,0
+338,7/1/1987,0
+339,1/1/1961,"(I10) Essential (primary) hypertension, (D35.6) Benign neoplasm of aortic body and other paraganglia, (E11.9) Type 2 diabetes mellitus without complications"
+340,6/7/1993,"(L65.9) Nonscarring hair loss, unspecified, (L29.9) Pruritus, unspecified, (E78.5) Hyperlipidemia, unspecified"
+341,7/4/1969,0
+342,9/30/1954,0
+343,2/7/2002,"(S05.02XA) Inj conjunctiva and corneal abrasion w/o fb, left eye, init, (Z31.69) Encounter for oth general cnsl and advice on procreation, (Z31.41) Encounter for fertility testing, (M25.512) Pain in left shoulder"
+344,6/7/1972,"(I10) Essential (primary) hypertension, (A60.00) Herpesviral infection of urogenital system, unspecified"
+345,12/12/1962,"(I10) Essential (primary) hypertension, (E66.9) Obesity, unspecified"
+346,11/7/1989,"(E78.49) Other hyperlipidemia, (H93.232) Hyperacusis, left ear"
+347,1/24/1982,"(I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications"
+348,12/5/1974,(M62.838) Other muscle spasm
+349,3/10/1957,(I10) Essential (primary) hypertension
+350,8/16/1956,0
+351,9/8/1979,"(E66.9) Obesity, unspecified, (F17.210) Nicotine dependence, cigarettes, uncomplicated"
+352,12/5/1969,"(J12.82) Pneumonia due to coronavirus disease 2019, (M75.02) Adhesive capsulitis of left shoulder, (J12.82) Pneumonia due to coronavirus disease 2019, (I49.9) Cardiac arrhythmia, unspecified"
+353,7/7/1987,(F43.21) Adjustment disorder with depressed mood
+354,10/7/1987,0
+355,11/10/1953,0
+356,1/8/1987,"(F41.9) Anxiety disorder, unspecified, (M72.2) Plantar fascial fibromatosis"
+357,8/11/1971,"(N39.0) Urinary tract infection, site not specified, (E03.9) Hypothyroidism, unspecified, (E66.8) Other obesity"
+358,5/14/1990,"(S00.251D) Superficial fb of right eyelid and periocular area, subs, (K62.5) Hemorrhage of anus and rectum, (K21.0) Gastro-esophageal reflux disease with esophagitis, (K30) Functional dyspepsia"
+359,9/13/1980,0
+360,2/10/1997,(H04.123) Dry eye syndrome of bilateral lacrimal glands
+361,6/10/1958,(R30.0) Dysuria
+362,12/27/1955,0
+363,12/3/1970,0
+364,4/18/1980,"(S83.91XA) Sprain of unspecified site of right knee, initial encounter"
+365,9/3/1969,0
+366,1/8/1960,"(E78.5) Hyperlipidemia, unspecified, (E04.2) Nontoxic multinodular goiter, (I10) Essential (primary) hypertension"
+367,8/25/1981,0
+368,11/13/1998,(E10.9) Type 1 diabetes mellitus without complications
+369,7/30/1964,0
+370,5/5/1961,"(E66.9) Obesity, unspecified, (R19.7) Diarrhea, unspecified, (R73.03) Prediabetes, (I10) Essential (primary) hypertension, (R74.01) Elevation of levels of liver transaminase levels"
+371,5/19/1947,(C50.919) Malignant neoplasm of unsp site of unspecified female breast
+372,7/18/1977,(M23.92) Unspecified internal derangement of left knee
+373,9/3/1980,0
+374,5/16/1992,0
+375,7/16/1996,"(M25.569) Pain in unspecified knee, (D50.9) Iron deficiency anemia, unspecified"
+376,1/19/1973,0
+377,12/16/1994,"(R20.2) Paresthesia of skin, (N93.9) Abnormal uterine and vaginal bleeding, unspecified, (F41.1) Generalized anxiety disorder, (N76.1) Subacute and chronic vaginitis, (R42) Dizziness and giddiness"
+378,5/10/1999,"(E66.3) Overweight, (M54.5) Low back pain, (E78.00) Pure hypercholesterolemia, unspecified"
+379,11/5/1952,(B02.9) Zoster without complications
+380,11/14/1977,"(I10) Essential (primary) hypertension, (I50.21) Acute systolic (congestive) heart failure, (F25.9) Schizoaffective disorder, unspecified, (E87.6) Hypokalemia, (J45.901) Unspecified asthma with (acute) exacerbation"
+381,4/6/1981,"(M79.671) Pain in right foot, (I10) Essential (primary) hypertension, (I10) Essential (primary) hypertension, (E66.9) Obesity, unspecified"
+382,3/19/1980,"(F51.04) Psychophysiologic insomnia, (F10.99) Alcohol use, unsp with unspecified alcohol-induced disorder, (K62.5) Hemorrhage of anus and rectum"
+383,11/21/2001,"(R74.01) Elevation of levels of liver transaminase levels, (R10.2) Pelvic and perineal pain"
+384,11/28/1981,"(J45.20) Mild intermittent asthma, uncomplicated, (K21.0) Gastro-esophageal reflux disease with esophagitis, (M54.50) Low back pain, unspecified, (N97.9) Female infertility, unspecified"
+385,1/8/1983,"(H61.20) Impacted cerumen, unspecified ear, (S90.00XA) Contusion of unspecified ankle, initial encounter"
+386,6/17/1958,"(R19.5) Other fecal abnormalities, (I10) Essential (primary) hypertension, (Z00.00) Encounter for general adult medical examination without abnormal findings, (D56.9) Thalassemia, unspecified"
+387,2/23/1959,0
+388,7/7/1994,(B86) Scabies
+389,8/4/1958,(M75.51) Bursitis of right shoulder
+390,1/15/2003,(R43.1) Parosmia
+391,11/30/1965,"(I10) Essential (primary) hypertension, (L40.0) Psoriasis vulgaris"
+392,7/11/1998,(B86) Scabies
+393,6/6/1988,0
+394,2/12/1988,"(R51.9) Headache, unspecified, (E66.9) Obesity, unspecified, (H53.30) Unspecified disorder of binocular vision, (K62.5) Hemorrhage of anus and rectum"
+395,9/27/1991,"(B08.1) Molluscum contagiosum, (L02.32) Furuncle of buttock"
+396,2/9/1939,0
+397,5/2/2005,(R07.89) Other chest pain
+398,10/25/1981,"(N63.23) Unspecified lump in the left breast, lower outer quadrant"
+399,7/23/1991,(K80.80) Other cholelithiasis without obstruction
+400,12/23/1941,"(I10) Essential (primary) hypertension, (Z85.46) Personal history of malignant neoplasm of prostate"
+401,2/26/1976,(F41.8) Other specified anxiety disorders
+402,9/17/1944,"(R10.12) Left upper quadrant pain, (K59.00) Constipation, unspecified, (M54.50) Low back pain, unspecified, (R73.9) Hyperglycemia, unspecified, (M25.562) Pain in left knee, (R82.71) Bacteriuria"
+403,6/10/1992,0
+404,8/6/1954,"(D24.2) Benign neoplasm of left breast, (I10) Essential (primary) hypertension, (R94.5) Abnormal results of liver function studies, (R73.03) Prediabetes, (E78.5) Hyperlipidemia, unspecified"
+405,12/16/1969,"(D64.9) Anemia, unspecified, (M54.16) Radiculopathy, lumbar region, (E11.9) Type 2 diabetes mellitus without complications"
+406,9/2/1962,"(I10) Essential (primary) hypertension, (E78.1) Pure hyperglyceridemia, (E78.5) Hyperlipidemia, unspecified, (M54.9) Dorsalgia, unspecified"
+407,6/29/1986,"(K80.66) Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstructionAbdominal pain, (H93.11) Tinnitus, right ear, (M65.4) Radial styloid tenosynovitis [de Quervain], (R10.9) Unspecified abdominal pain"
+408,11/16/1955,"(L03.031) Cellulitis of right toe, (L03.019) Cellulitis of unspecified finger, (J39.8) Other specified diseases of upper respiratory tract, (R73.03) Prediabetes"
+409,9/29/1984,"(B35.1) Tinea unguium, (F14.10) Cocaine abuse, uncomplicated"
+410,7/19/1983,(M72.2) Plantar fascial fibromatosis
+411,6/10/1940,0
+412,11/9/1961,"(N28.1) Cyst of kidney, acquired"
+413,11/15/1950,"(E78.00) Pure hypercholesterolemia, unspecified, (I10) Essential (primary) hypertension, (E08.9) Diabetes mellitus due to underlying condition without complications"
+414,3/9/1958,"(I10) Essential (primary) hypertension, (H66.90) Otitis media, unspecified, unspecified ear, (H60.399) Other infective otitis externa, unspecified ear, (H66.91) Otitis media, unspecified, right ear"
+415,9/23/2000,"(I95.1) Orthostatic hypotension, (D50.9) Iron deficiency anemia, unspecified, (D50.0) Iron deficiency anemia secondary to blood loss (chronic), (N92.6) Irregular menstruation, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+416,7/26/1959,"(I10) Essential (primary) hypertension, (E78.0) Pure hypercholesterolemia, (H10.13) Acute atopic conjunctivitis, bilateral, (H40.9) Unspecified glaucoma, (J45.991) Cough variant asthma, (E11.9) Type 2 diabetes mellitus without complications"
+417,10/15/1986,"(H81.10) Benign paroxysmal vertigo, unspecified ear"
+418,1/11/1964,"(M10.9) Gout, unspecified, (R73.03) Prediabetes, (E78.2) Mixed hyperlipidemia, (I10) Essential (primary) hypertension"
+419,11/26/1987,"(M54.5) Low back pain, (R74.01) Elevation of levels of liver transaminase levels"
+420,10/1/1982,(E10.9) Type 1 diabetes mellitus without complications
+421,3/15/1982,"(N92.6) Irregular menstruation, unspecified"
+422,6/23/1937,0
+423,11/25/1969,"(R33.9) Retention of urine, unspecified, (N40.1) Benign prostatic hyperplasia with lower urinary tract symp"
+424,10/15/1982,0
+425,4/30/1980,0
+426,7/25/1965,"(I10) Essential (primary) hypertension, (H81.10) Benign paroxysmal vertigo, unspecified ear, (R80.9) Proteinuria, unspecified, (E78.49) Other hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications"
+427,12/5/1978,"(Z00.00) Encounter for general adult medical examination without abnormal findings, (F41.9) Anxiety disorder, unspecified"
+428,10/4/1976,"(E78.2) Mixed hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (E78.3) Hyperchylomicronemia"
+429,10/1/1973,"(Z12.31) Encntr screen mammogram for malignant neoplasm of breast, (N63.13) Unspecified lump in the right breast, lower outer quadrant"
+430,10/6/1979,0
+431,4/22/2002,0
+432,4/24/1971,"(N95.0) Postmenopausal bleeding, (Z15.04) Genetic susceptibility to malignant neoplasm of endometrium, (G47.01) Insomnia due to medical condition"
+433,1/5/1959,"(M54.2) Cervicalgia, (G25.0) Essential tremor, (M81.0) Age-related osteoporosis without current pathological fracture"
+434,2/2/2002,0
+435,10/5/1962,"(I10) Essential (primary) hypertension, (E78.4) Other hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications"
+436,12/15/1962,0
+437,2/12/1966,"(R00.0) Tachycardia, unspecified, (R42) Dizziness and giddiness, (R35.1) Nocturia, (J31.0) Chronic rhinitis, (E66.3) Overweight, (R04.0) Epistaxis"
+438,8/17/1968,"(I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (E11.8) Type 2 diabetes mellitus with unspecified complications, (E78.0) Pure hypercholesterolemia"
+439,8/25/1973,"(R06.00) Dyspnea, unspecified, (E66.09) Other obesity due to excess calories"
+440,12/23/1997,(K21.9) Gastro-esophageal reflux disease without esophagitis
+441,1/28/1960,"(E78.1) Pure hyperglyceridemia, (H40.9) Unspecified glaucoma"
+442,7/11/1973,0
+443,2/11/1971,"(F52.21) Male erectile disorder, (K64.4) Residual hemorrhoidal skin tags"
+444,4/17/1958,"(G20) Parkinson's disease, (G20) Parkinson's disease, (E78.2) Mixed hyperlipidemia"
+445,9/16/1972,"(E10.52) Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene, (I10) Essential (primary) hypertension"
+446,8/23/1953,"(N39.0) Urinary tract infection, site not specified, (R30.9) Painful micturition, unspecified"
+447,5/13/1966,"(R05) Cough, (R73.9) Hyperglycemia, unspecified, (R19.04) Left lower quadrant abdominal swelling, mass and lump, (B35.0) Tinea barbae and tinea capitis, (R10.9) Unspecified abdominal pain, (E11.9) Type 2 diabetes mellitus without complications"
+448,4/3/1956,"(R94.31) Abnormal electrocardiogram [ECG] [EKG], (I10) Essential (primary) hypertension"
+449,10/19/1961,"(I10) Essential (primary) hypertension, (H11.011) Amyloid pterygium of right eye, (I10) Essential (primary) hypertension"
+450,9/24/1962,0
+451,1/28/1968,(K21.9) Gastro-esophageal reflux disease without esophagitis
+452,8/28/1978,0
+453,9/7/1972,0
+454,6/4/1957,0
+455,3/29/1990,"(Z11.3) Encntr screen for infections w sexl mode of transmiss, (E03.9) Hypothyroidism, unspecified"
+456,11/15/1984,0
+457,3/23/1988,0
+458,8/20/1958,"(C50.912) Malignant neoplasm of unspecified site of left female breast, (E78.5) Hyperlipidemia, unspecified, (M72.2) Plantar fascial fibromatosis"
+459,12/12/1968,"(R04.0) Epistaxis, (S00.93XA) Contusion of unspecified part of head, initial encounter, (D58.2) Other hemoglobinopathies"
+460,2/8/1971,(K21.9) Gastro-esophageal reflux disease without esophagitis
+461,12/11/1946,"(I10) Essential (primary) hypertension, (D29.1) Benign neoplasm of prostate"
+462,8/15/1973,0
+463,4/15/1978,"(I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified"
+464,9/16/1960,"(L98.9) Disorder of the skin and subcutaneous tissue, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (E66.09) Other obesity due to excess calories, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified"
+465,7/2/1989,"(D70.9) Neutropenia, unspecified"
+466,6/9/1973,"(H00.019) Hordeolum externum unspecified eye, unspecified eyelid, (R10.9) Unspecified abdominal pain"
+467,9/24/1974,"(E08.9) Diabetes due to underlying condition w/o complications, (M51.36) Other intervertebral disc degeneration, lumbar region"
+468,11/18/1979,"(K02.9) Dental caries, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis, (I10) Essential (primary) hypertension"
+469,8/28/1973,"(R19.03) Right lower quadrant abdominal swelling, mass and lump, (R20.2) Paresthesia of skin, (R19.5) Other fecal abnormalities"
+470,11/3/1972,0
+471,1/23/1953,0
+472,3/8/1994,"(R73.09) Other abnormal glucose, (E66.3) Overweight"
+473,5/5/1982,"(S80.10XA) Contusion of unspecified lower leg, initial encounter"
+474,7/27/1980,"(R05.9) Cough, unspecified, (Z02.1) Encounter for pre-employment examination"
+475,4/22/1982,"(I08.3) Comb rheumatic disord of mitral, aortic and tricuspid valves, (R79.89) Other specified abnormal findings of blood chemistry"
+476,12/28/1978,0
+477,2/28/1989,(R55) Syncope and collapse
+478,7/9/1964,0
+479,6/21/1982,"(F31.9) Bipolar disorder, unspecified"
+480,12/26/1981,"(R51.9) Headache, unspecified, (M54.5) Low back pain, (F32.A) Depression, unspecified, (E78.5) Hyperlipidemia, unspecified, (R06.00) Dyspnea, unspecified"
+481,1/2/1947,0
+482,4/20/1959,0
+483,1/25/1973,(I10) Essential (primary) hypertension
+484,3/18/1991,(M25.562) Pain in left knee
+485,1/10/1972,"(M25.569) Pain in unspecified knee, (M77.11) Lateral epicondylitis, right elbow, (I10) Essential (primary) hypertension"
+486,6/20/1978,"(R10.31) Right lower quadrant pain, (M54.31) Sciatica, right side"
+487,4/26/1960,"(R10.814) Left lower quadrant abdominal tenderness, (R73.01) Impaired fasting glucose, (H54.7) Unspecified visual loss"
+488,3/12/1983,"(R30.0) Dysuria, (L71.9) Rosacea, unspecified, (G43.909) Migraine, unspecified, not intractable, without status migrainosus"
+489,7/4/1958,"(E66.9) Obesity, unspecified, (M76.61) Achilles tendinitis, right leg, (R35.1) Nocturia"
+490,3/15/1989,(Z31.69) Encounter for oth general cnsl and advice on procreation
+491,3/7/1990,(Z00.8) Encounter for other general examination
+492,4/12/1988,(J35.01) Chronic tonsillitis
+493,6/12/1991,0
+494,7/11/1995,"(H72.821) Total perforations of tympanic membrane, right ear, (F32.A) Depression, unspecified, (J10.1) Flu due to oth ident influenza virus w oth resp manifest, (F10.90) Alcohol use, unspecified, uncomplicated, (F41.1) Generalized anxiety disorder"
+495,5/15/1997,"(M54.50) Low back pain, unspecified, (R22.9) Localized swelling, mass and lump, unspecified"
+496,9/7/1976,0
+497,7/10/1945,0
+498,10/22/1990,0
+499,10/2/1955,"(I10) Essential (primary) hypertension, (A53.9) Syphilis, unspecified, (E78.4) Other hyperlipidemia"
+500,5/18/1979,(K62.5) Hemorrhage of anus and rectum
+501,1/13/2000,"(J06.9) Acute upper respiratory infection, unspecified"
+502,10/2/1975,"(R87.612) Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL), (E78.2) Mixed hyperlipidemia, (R05.1) Acute cough, (R73.03) Prediabetes, (K76.0) Fatty (change of) liver, not elsewhere classified"
+503,6/1/1927,0
+504,8/6/1961,(E11.69) Type 2 diabetes mellitus with other specified complication
+505,8/2/1983,"(E78.5) Hyperlipidemia, unspecified, (Z87.59) Personal history of other complications of pregnancy, childbirth and the puerperium, (L70.8) Other acne, (R94.5) Abnormal results of liver function studies"
+506,8/22/1975,0
+507,7/1/1993,0
+508,9/30/1992,(I10) Essential (primary) hypertension
+509,11/21/1961,0
+510,8/19/1995,"(H18.601) Keratoconus, unspecified, right eye, (E66.8) Other obesity"
+511,1/14/1953,"(H81.13) Benign paroxysmal vertigo, bilateral"
+512,6/20/1966,0
+513,11/9/1988,"(I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (B35.3) Tinea pedis"
+514,2/5/1992,"(L05.01) Pilonidal cyst with abscess, (F90.9) Attention-deficit hyperactivity disorder, unspecified type"
+515,12/23/1960,0
+516,7/5/1972,"(G44.209) Tension-type headache, unspecified, not intractable"
+517,7/10/1989,"(E66.9) Obesity, unspecified"
+518,6/21/1964,"(R94.6) Abnormal results of thyroid function studies, (Z12.39) Encounter for other screening for malignant neoplasm of breast, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+519,8/5/1961,"(E78.2) Mixed hyperlipidemia, (M25.569) Pain in unspecified knee, (E11.9) Type 2 diabetes mellitus without complications"
+520,12/16/1974,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (K59.00) Constipation, unspecified, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (K64.9) Unspecified hemorrhoids"
+521,11/8/1995,0
+522,3/9/1960,(M72.2) Plantar fascial fibromatosis
+523,7/3/1994,"(L23.9) Allergic contact dermatitis, unspecified cause, (J02.9) Acute pharyngitis, unspecified, (L30.1) Dyshidrosis [pompholyx]"
+524,11/30/1944,0
+525,1/3/1962,"(N40.1) Enlarged prostate with lower urinary tract symptoms, (D72.1) Eosinophilia, (N39.0) Urinary tract infection, site not specified, (M54.5) Low back pain, (R00.2) Palpitations"
+526,5/8/1997,"(R20.2) Paresthesia of skin, (R06.09) Other forms of dyspnea, (R00.2) Palpitations"
+527,9/28/1992,0
+528,8/7/1957,"(D70.8) Other neutropenia, (J01.90) Acute sinusitis, unspecified, (M72.2) Plantar fascial fibromatosis, (Z86.16) Personal history of COVID-19"
+529,1/5/1952,0
+530,5/31/1989,"(M54.50) Low back pain, unspecified, (K64.9) Unspecified hemorrhoids, (L29.0) Pruritus ani, (K29.50) Unspecified chronic gastritis without bleeding, (L60.0) Ingrowing nail"
+531,10/31/1966,(Z87.820) Personal history of traumatic brain injury
+532,8/2/1977,0
+533,11/1/1991,"(K64.0) First degree hemorrhoids, (K59.00) Constipation, unspecified"
+534,6/24/1981,(L03.012) Cellulitis of left finger
+535,2/8/1958,(Z00.00) Encntr for general adult medical exam w/o abnormal findings
+536,11/27/1959,"(F33.1) Major depressive disorder, recurrent, moderate, (M10.9) Gout, unspecified, (E78.00) Pure hypercholesterolemia, unspecified, (I10) Essential (primary) hypertension"
+537,3/17/1945,"(E78.2) Mixed hyperlipidemia, (N40.1) Benign prostatic hyperplasia with lower urinary tract symptoms"
+538,10/24/1953,"(E66.3) Overweight, (I10) Essential (primary) hypertension, (J45.31) Mild persistent asthma with (acute) exacerbation, (E78.5) Hyperlipidemia, unspecified"
+539,4/20/1960,"(E78.2) Mixed hyperlipidemia, (R01.1) Cardiac murmur, unspecified, (I10) Essential (primary) hypertension, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications"
+540,1/14/1982,"(R07.89) Other chest pain, (M62.40) Contracture of muscle, unspecified site"
+541,3/6/1967,0
+542,4/1/1968,"(E11.9) Type 2 diabetes mellitus without complications, (R19.5) Other fecal abnormalities, (I10) Essential (primary) hypertension, (M54.50) Low back pain, unspecified, (G47.33) Obstructive sleep apnea (adult) (pediatric)"
+543,3/16/1980,(K64.8) Other hemorrhoids
+544,7/11/1934,"(G50.0) Trigeminal neuralgia, (M17.0) Bilateral primary osteoarthritis of knee"
+545,3/15/1988,"(R63.6) Underweight, (F41.9) Anxiety disorder, unspecified, (L98.9) Disorder of the skin and subcutaneous tissue, unspecified"
+546,9/30/1978,"(E78.5) Hyperlipidemia, unspecified, (L73.9) Follicular disorder, unspecified, (H11.153) Pinguecula, bilateral, (S29.011A) Strain of muscle and tendon of front wall of thorax, initial encounter"
+547,8/21/1976,"(H92.10) Otorrhea, unspecified ear, (R51.9) Headache, unspecified, (R73.03) Prediabetes, (E66.9) Obesity, unspecified, (H92.03) Otalgia, bilateral"
+548,4/28/1992,(I10) Essential (primary) hypertension
+549,4/14/1989,(M25.561) Pain in right knee
+550,5/8/1969,"(E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (M25.511) Pain in right shoulder"
+551,2/20/1984,"(G44.1) Vascular headache, not elsewhere classified, (H18.413) Arcus senilis, bilateral"
+552,7/23/1996,0
+553,12/6/1971,"(L91.8) Other hypertrophic disorders of the skin, (M54.50) Low back pain, unspecified"
+554,11/17/1977,"(H81.10) Benign paroxysmal vertigo, unspecified ear"
+555,3/23/1956,"(K29.70) Gastritis, unspecified, without bleeding, (I10) Essential (primary) hypertension, (G51.8) Other disorders of facial nerve, (D32.9) Benign neoplasm of meninges, unspecified"
+556,12/30/1988,"(I10) Essential (primary) hypertension, (F41.9) Anxiety disorder, unspecified"
+557,8/8/1968,0
+558,11/5/1958,"(I10) Essential (primary) hypertension, (A15.0) Tuberculosis of lung, (Z87.891) Personal history of nicotine dependence, (J18.9) Pneumonia, unspecified organism, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+559,5/18/1979,0
+560,5/26/1969,"(G43.909) Migraine, unspecified, not intractable, without status migrainosus, (E78.2) Mixed hyperlipidemia, (I10) Essential (primary) hypertension"
+561,1/10/2001,"(G44.209) Tension-type headache, unspecified, not intractable"
+562,11/26/1972,"(K76.0) Fatty (change of) liver, not elsewhere classified, (R73.9) Hyperglycemia, unspecified"
+563,9/3/1973,"(E66.9) Obesity, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified"
+564,7/6/1968,"(M77.10) Lateral epicondylitis, unspecified elbow"
+565,6/6/1974,"(D50.9) Iron deficiency anemia, unspecified"
+566,3/18/1970,"(I63.9) Cerebral infarction, unspecified, (R71.8) Other abnormality of red blood cells, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+567,10/18/1947,0
+568,11/3/1967,"(M75.102) Unspecified rotator cuff tear or rupture of left shoulder, not specified as traumatic"
+569,5/26/1998,0
+570,7/7/1959,"(H26.9) Unspecified cataract, (I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (K59.00) Constipation, unspecified, (R73.03) Prediabetes"
+571,12/22/1966,"(E78.0) Pure hypercholesterolemia, (R29.898) Oth symptoms and signs involving the musculoskeletal system"
+572,9/3/1960,"(M25.519) Pain in unspecified shoulder, (L80) Vitiligo"
+573,1/24/1964,"(M15.0) Primary generalized (osteo)arthritis, (M06.9) Rheumatoid arthritis, unspecified, (M70.41) Prepatellar bursitis, right knee, (M25.50) Pain in unspecified joint"
+574,12/30/1959,"(L20.84) Intrinsic (allergic) eczema, (I10) Essential (primary) hypertension, (E11.8) Type 2 diabetes mellitus with unspecified complications"
+575,7/1/1964,(M25.561) Pain in right knee
+576,9/27/1963,"(M25.569) Pain in unspecified knee, (J44.9) Chronic obstructive pulmonary disease, unspecified, (R51.9) Headache, unspecified"
+577,9/27/1981,"(E66.9) Obesity, unspecified, (M79.671) Pain in right foot"
+578,12/12/1966,"(R07.9) Chest pain, unspecified, (M25.561) Pain in right knee, (M25.511) Pain in right shoulder, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (E66.9) Obesity, unspecified, (R73.02) Impaired glucose tolerance (oral)"
+579,7/4/1984,0
+580,11/15/1994,"(R51.9) Headache, unspecified, (R39.9) Unsp symptoms and signs involving the genitourinary system, (Q53.10) Unspecified undescended testicle, unilateral"
+581,2/5/1969,(I10) Essential (primary) hypertension
+582,10/2/1962,"(I10) Essential (primary) hypertension, (I63.9) Cerebral infarction, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis, (I42.0) Dilated cardiomyopathy"
+583,1/9/1975,"(R07.89) Other chest pain, (R94.31) Abnormal electrocardiogram [ECG] [EKG], (R00.2) Palpitations, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (E78.2) Mixed hyperlipidemia"
+584,2/28/1962,"(N89.8) Other specified noninflammatory disorders of vagina, (R73.03) Prediabetes, (E78.00) Pure hypercholesterolemia, unspecified"
+585,7/15/1951,(I10) Essential (primary) hypertension
+586,3/25/1984,0
+587,10/2/1967,"(D50.0) Iron deficiency anemia secondary to blood loss (chronic), (G45.9) Transient cerebral ischemic attack, unspecified"
+588,9/7/1961,"(J40) Bronchitis, not specified as acute or chronic"
+589,5/22/1987,0
+590,8/11/1998,"(S09.8XXA) Other specified injuries of head, initial encounter, (M25.461) Effusion, right knee, (M25.561) Pain in right knee"
+591,5/14/1993,"(E78.5) Hyperlipidemia, unspecified, (B00.9) Herpesviral infection, unspecified, (N20.0) Calculus of kidney, (R74.01) Elevation of levels of liver transaminase levels, (F32.0) Major depressive disorder, single episode, mild"
+592,8/11/1961,"(Z72.0) Tobacco use, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified"
+593,3/6/1961,"(N20.0) Calculus of kidney, (R10.9) Unspecified abdominal pain"
+594,5/7/1950,0
+595,9/17/1993,0
+596,5/23/1964,"(N95.1) Menopausal and female climacteric states, (S29.9XXS) Unspecified injury of thorax, sequela, (M54.50) Low back pain, unspecified, (D64.9) Anemia, unspecified, (R20.8) Other disturbances of skin sensation, (M72.2) Plantar fascial fibromatosis"
+597,3/25/1977,"(M50.121) Cervical disc disorder at C4-C5 level with radiculopathy, (M19.071) Primary osteoarthritis, right ankle and foot, (R03.0) Elevated blood-pressure reading, w/o diagnosis of htn, (M17.0) Bilateral primary osteoarthritis of knee"
+598,7/7/1972,"(J45.909) Unspecified asthma, uncomplicated, (D50.0) Iron deficiency anemia secondary to blood loss (chronic), (E06.9) Thyroiditis, unspecified"
+599,8/17/1972,"(E11.9) Type 2 diabetes mellitus without complications, (M62.838) Other muscle spasm, (E78.2) Mixed hyperlipidemia, (E66.9) Obesity, unspecified"
+600,9/11/1992,"(S83.002A) Unspecified subluxation of left patella, initial encounter, (S83.004A) Unspecified dislocation of right patella, initial encounter"
+601,9/26/1965,"(I25.10) Athscl heart disease of native coronary artery w/o ang pctrs, (Z02.89) Encounter for other administrative examinations, (E11.9) Type 2 diabetes mellitus without complications"
+602,5/1/1960,"(M25.569) Pain in unspecified knee, (R73.01) Impaired fasting glucose"
+603,5/4/1957,(E11.9) Type 2 diabetes mellitus without complications
+604,5/7/1971,"(N40.1) Benign prostatic hyperplasia with lower urinary tract symptoms, (I10) Essential (primary) hypertension"
+605,10/9/1987,0
+606,5/16/1976,0
+607,7/23/1978,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (N20.0) Calculus of kidney"
+608,6/2/1947,0
+609,5/18/1994,0
+610,2/9/1977,(L50.0) Allergic urticaria
+611,12/8/1980,0
+612,5/15/2002,0
+613,3/5/1956,"(K71.9) Toxic liver disease, unspecified, (G72.0) Drug-induced myopathy"
+614,7/2/1996,"(G56.03) Carpal tunnel syndrome, bilateral upper limbs"
+615,2/1/1980,"(E78.5) Hyperlipidemia, unspecified, (R73.09) Other abnormal glucose, (I10) Essential (primary) hypertension"
+616,7/21/1973,"(E13.9) Other specified diabetes mellitus without complications, (B35.1) Tinea unguium, (E78.2) Mixed hyperlipidemia, (M54.5) Low back pain, (E66.09) Other obesity due to excess calories"
+617,8/16/1985,0
+618,2/5/1973,0
+619,5/19/1953,"(R10.2) Pelvic and perineal pain, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (R10.819) Abdominal tenderness, unspecified site, (E08.9) Diabetes due to underlying condition w/o complications"
+620,9/22/1977,"(E66.9) Obesity, unspecified, (E78.5) Hyperlipidemia, unspecified"
+621,10/19/1975,0
+622,12/30/1958,"(N40.0) Benign prostatic hyperplasia without lower urinry tract symp, (E11.9) Type 2 diabetes mellitus without complications"
+623,10/13/1980,(N64.4) Mastodynia
+624,2/10/1967,"(E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension"
+625,2/8/1987,"(N47.1) Phimosis, (R80.9) Proteinuria, unspecified, (E78.5) Hyperlipidemia, unspecified, (Z68.27) Body mass index (BMI) 27.0-27.9, adult, (E11.9) Type 2 diabetes mellitus without complications"
+626,2/3/1955,0
+627,6/24/1981,0
+628,12/18/1977,"(R10.814) Left lower quadrant abdominal tenderness, (G61.89) Other inflammatory polyneuropathies"
+629,10/23/1996,"(J02.9) Acute pharyngitis, unspecified, (Z00.01) Encounter for general adult medical exam w abnormal findings, (F12.20) Cannabis dependence, uncomplicated, (Z72.0) Tobacco use"
+630,5/30/1965,(E11.9) Type 2 diabetes mellitus without complications
+631,6/4/1954,0
+632,10/25/1976,"(R07.9) Chest pain, unspecified"
+633,3/31/1965,(Z12.11) Encounter for screening for malignant neoplasm of colon
+634,8/2/2004,"(R20.2) Paresthesia of skin, (R63.4) Abnormal weight loss, (F32.A) Depression, unspecified, (R10.9) Unspecified abdominal pain"
+635,9/3/1965,(I10) Essential (primary) hypertension
+636,1/16/1970,"(G56.01) Carpal tunnel syndrome, right upper limb, (J00) Acute nasopharyngitis [common cold], (G43.809) Other migraine, not intractable, without status migrainosus, (R21) Rash and other nonspecific skin eruption, (B02.9) Zoster without complications"
+637,1/1/2000,0
+638,9/24/1967,(M25.572) Pain in left ankle and joints of left foot
+639,3/13/1965,"(H66.90) Otitis media, unspecified, unspecified ear, (R29.818) Other symptoms and signs involving the nervous system, (Z86.73) Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+640,12/29/1971,"(L29.2) Pruritus vulvae, (F41.9) Anxiety disorder, unspecified, (K59.00) Constipation, unspecified, (B00.9) Herpesviral infection, unspecified, (E66.3) Overweight, (E78.49) Other hyperlipidemia, (D26.0) Other benign neoplasm of cervix uteri"
+641,7/9/1972,"(R10.11) Right upper quadrant pain, (I83.90) Asymptomatic varicose veins of unspecified lower extremity"
+642,7/30/1971,"(G47.01) Insomnia due to medical condition, (R53.83) Other fatigue, (R06.02) Shortness of breath"
+643,1/5/1963,"(N83.20) Unspecified ovarian cysts, (E11.9) Type 2 diabetes mellitus without complications, (E78.2) Mixed hyperlipidemia, (I10) Essential (primary) hypertension"
+644,12/17/1955,"(S01.01XA) Laceration without foreign body of scalp, initial encounter"
+645,12/15/1998,"(Z11.3) Encntr screen for infections w sexl mode of transmiss, (R74.01) Elevation of levels of liver transaminase levels, (I10) Essential (primary) hypertension, (R80.9) Proteinuria, unspecified"
+646,6/25/1983,0
+647,1/6/1978,"(E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (B02.9) Zoster without complications, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+648,4/23/1954,"(I10) Essential (primary) hypertension, (R73.03) Prediabetes, (E78.2) Mixed hyperlipidemia"
+649,11/22/1987,"(K64.4) Residual hemorrhoidal skin tags, (K64.8) Other hemorrhoids, (K76.0) Fatty (change of) liver, not elsewhere classified, (K82.4) Cholesterolosis of gallbladder"
+650,5/11/1950,0
+651,11/18/1958,(E11.9) Type 2 diabetes mellitus without complications
+652,12/25/1966,"(M54.50) Low back pain, unspecified, (Z87.09) Personal history of other diseases of the respiratory system, (J20.9) Acute bronchitis, unspecified, (J01.90) Acute sinusitis, unspecified"
+653,10/26/2000,"(N76.0) Acute vaginitis, (R10.30) Lower abdominal pain, unspecified, (N83.292) Other ovarian cyst, left side"
+654,10/27/1958,"(E78.00) Pure hypercholesterolemia, unspecified, (D21.6) Benign neoplasm of connective and other soft tissue of trunk, unspecified, (I10) Essential (primary) hypertension"
+655,3/22/1977,"(N63.20) Unspecified lump in the left breast, unspecified quadrant"
+656,7/7/1971,"(A63.0) Anogenital (venereal) warts, (K64.9) Unspecified hemorrhoids, (L40.9) Psoriasis, unspecified"
+657,3/12/1991,"(Z00.8) Encounter for other general examination, (L72.0) Epidermal cyst, (Z72.0) Tobacco use"
+658,4/17/1997,(L70.0) Acne vulgaris
+659,4/23/1983,0
+660,10/23/1971,"(B35.1) Tinea unguium, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (J02.9) Acute pharyngitis, unspecified"
+661,9/25/1963,"(M47.22) Other spondylosis with radiculopathy, cervical region"
+662,1/8/1961,"(E78.5) Hyperlipidemia, unspecified"
+663,1/8/1977,"(N39.0) Urinary tract infection, site not specified"
+664,9/17/1945,"(I10) Essential (primary) hypertension, (S62.602D) Fracture of unspecified phalanx of right middle finger, subsequent encounter for fracture with routine healing"
+665,8/23/1969,"(E78.49) Other hyperlipidemia, (I10) Essential (primary) hypertension, (M47.26) Other spondylosis with radiculopathy, lumbar region"
+666,4/15/1998,"(J04.0) Acute laryngitis, (L73.9) Follicular disorder, unspecified"
+667,1/16/1977,0
+668,12/25/1958,"(S39.012A) Strain of muscle, fascia and tendon of lower back, initial encounter, (E78.5) Hyperlipidemia, unspecified, (M79.641) Pain in right hand"
+669,5/24/1981,0
+670,9/17/1980,"(E66.3) Overweight, (M72.2) Plantar fascial fibromatosis, (M75.92) Shoulder lesion, unspecified, left shoulder, (R30.0) Dysuria, (I47.9) Paroxysmal tachycardia, unspecified, (N39.0) Urinary tract infection, site not specified"
+671,8/15/1990,"(E66.3) Overweight, (M54.5) Low back pain"
+672,4/2/1957,"(G57.12) Meralgia paresthetica, left lower limb, (J30.2) Other seasonal allergic rhinitis, (R10.32) Left lower quadrant pain, (I10) Essential (primary) hypertension"
+673,7/1/1957,"(E66.9) Obesity, unspecified, (E78.00) Pure hypercholesterolemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications"
+674,3/20/1987,"(R07.89) Other chest pain, (R21) Rash and other nonspecific skin eruption, (E61.1) Iron deficiency"
+675,6/2/1955,"(J33.0) Polyp of nasal cavity, (F33.0) Major depressive disorder, recurrent, mild, (I10) Essential (primary) hypertension, (R97.2) Elevated prostate specific antigen [PSA]"
+676,9/24/1966,0
+677,6/21/1993,"(G64) Other disorders of peripheral nervous system, (G64) Other disorders of peripheral nervous system, (F33.9) Major depressive disorder, recurrent, unspecified, (R10.32) Left lower quadrant pain"
+678,7/25/1968,"(K21.0) Gastro-esophageal reflux disease with esophagitis, (E11.9) Type 2 diabetes mellitus without complications, (Z63.72) Alcoholism and drug addiction in family, (D50.0) Iron deficiency anemia secondary to blood loss (chronic)"
+679,9/22/1971,"(R92.2) Inconclusive mammogram, (I87.2) Venous insufficiency (chronic) (peripheral), (R73.01) Impaired fasting glucose, (N92.1) Excessive and frequent menstruation with irregular cycle, (E78.5) Hyperlipidemia, unspecified"
+680,9/5/1965,"(S29.012D) Strain of muscle and tendon of back wall of thorax, subs, (N28.1) Cyst of kidney, acquired, (M25.562) Pain in left knee"
+681,2/20/1958,"(H53.8) Other visual disturbances, (E78.49) Other hyperlipidemia"
+682,11/20/1956,"(M54.16) Radiculopathy, lumbar region, (E89.0) Postprocedural hypothyroidism"
+683,2/2/1965,0
+684,8/29/1960,"(E11.9) Type 2 diabetes mellitus without complications, (E78.3) Hyperchylomicronemia, (R94.6) Abnormal results of thyroid function studies, (I10) Essential (primary) hypertension, (M10.9) Gout, unspecified"
+685,1/1/1957,0
+686,4/19/1996,0
+687,1/31/1969,0
+688,4/29/1989,0
+689,7/30/1935,"(L98.9) Disorder of the skin and subcutaneous tissue, unspecified, (H91.11) Presbycusis, right ear, (R03.0) Elevated blood-pressure reading, w/o diagnosis of htn"
+690,8/22/1944,0
+691,1/16/1978,0
+692,1/1/1983,"(E03.9) Hypothyroidism, unspecified, (I10) Essential (primary) hypertension, (G43.111) Migraine with aura, intractable, with status migrainosus, (H81.10) Benign paroxysmal vertigo, unspecified ear"
+693,10/17/1961,"(E13.9) Other specified diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension"
+694,7/6/1980,0
+695,3/19/1974,0
+696,6/10/1945,(K21.9) Gastro-esophageal reflux disease without esophagitis
+697,11/3/1994,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (F41.9) Anxiety disorder, unspecified, (B35.1) Tinea unguium"
+698,5/23/1977,(N93.8) Other specified abnormal uterine and vaginal bleeding
+699,12/15/1948,"(N39.0) Urinary tract infection, site not specified, (I10) Essential (primary) hypertension"
+700,9/3/1971,"(J06.9) Acute upper respiratory infection, unspecified, (B00.9) Herpesviral infection, unspecified, (I10) Essential (primary) hypertension, (H35.81) Retinal edema"
+701,7/8/1996,"(D64.9) Anemia, unspecified, (A56.11) Chlamydial female pelvic inflammatory disease"
+702,5/27/1983,0
+703,10/10/1986,0
+704,2/2/1983,0
+705,11/5/1993,(G64) Other disorders of peripheral nervous system
+706,12/4/1987,"(M65.231) Calcific tendinitis, right forearm, (L40.9) Psoriasis, unspecified"
+707,12/30/1948,"(I20.9) Angina pectoris, unspecified, (E11.8) Type 2 diabetes mellitus with unspecified complications, (I20.9) Angina pectoris, unspecified, (D64.9) Anemia, unspecified"
+708,7/6/1989,0
+709,3/11/1994,0
+710,1/26/2002,"(R21) Rash and other nonspecific skin eruption, (M25.512) Pain in left shoulder"
+711,3/28/1975,"(K64.0) First degree hemorrhoids, (F41.1) Generalized anxiety disorder, (F32.9) Major depressive disorder, single episode, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R11.2) Nausea with vomiting, unspecified"
+712,3/31/2003,"(M54.50) Low back pain, unspecified, (L30.9) Dermatitis, unspecified, (B35.3) Tinea pedis, (R51.9) Headache, unspecified"
+713,6/12/1968,"(I10) Essential (primary) hypertension, (I10) Essential (primary) hypertension"
+714,11/22/1971,0
+715,1/9/1966,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (D72.829) Elevated white blood cell count, unspecified, (R73.03) Prediabetes"
+716,4/1/1988,"(M46.1) Sacroiliitis, not elsewhere classified"
+717,12/17/1972,0
+718,5/2/1990,0
+719,9/20/1988,0
+720,5/24/1993,0
+721,1/6/1964,"(R10.13) Epigastric pain, (K62.5) Hemorrhage of anus and rectum, (K64.9) Unspecified hemorrhoids"
+722,5/10/1996,"(M54.32) Sciatica, left side, (R10.32) Left lower quadrant pain, (M62.830) Muscle spasm of back"
+723,4/28/2005,"(N30.90) Cystitis, unspecified without hematuria"
+724,11/29/1976,0
+725,7/8/1986,(D17.1) Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk
+726,1/8/1981,"(E04.0) Nontoxic diffuse goiter, (R03.0) Elevated blood-pressure reading, w/o diagnosis of htn"
+727,11/10/1948,0
+728,8/12/1974,(G20) Parkinson's disease
+729,10/8/1958,0
+730,1/1/1937,"(H93.13) Tinnitus, bilateral, (M50.10) Cervical disc disorder w radiculopathy, unsp cervical region, (R12) Heartburn"
+731,1/20/1995,"(R51.9) Headache, unspecified, (Z31.41) Encounter for fertility testing, (L81.0) Postinflammatory hyperpigmentation"
+732,11/2/1965,0
+733,5/24/1993,(R07.89) Other chest pain
+734,4/3/1977,"(B35.3) Tinea pedis, (K64.9) Unspecified hemorrhoids, (L60.9) Nail disorder, unspecified"
+735,12/16/1956,0
+736,8/6/1961,"(M05.40) Rheumatoid myopathy with rheumatoid arthritis of unspecified site, (E78.2) Mixed hyperlipidemia, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+737,5/3/1969,"(I10) Essential (primary) hypertension, (N18.4) Chronic kidney disease, stage 4 (severe), (I50.1) Left ventricular failure, unspecified, (N18.9) Chronic kidney disease, unspecified, (D64.9) Anemia, unspecified"
+738,10/24/1956,0
+739,2/3/2002,"(G56.03) Carpal tunnel syndrome, bilateral upper limbs, (G56.02) Carpal tunnel syndrome, left upper limb, (G56.02) Carpal tunnel syndrome, left upper limb"
+740,4/2/1959,"(H61.20) Impacted cerumen, unspecified ear, (I10) Essential (primary) hypertension"
+741,3/14/1981,"(N40.1) Benign prostatic hyperplasia with lower urinary tract symp, (F52.21) Male erectile disorder, (R14.3) Flatulence, (Z83.511) Family history of glaucoma, (R35.89) Other polyuria"
+742,8/3/2000,"(R51.9) Headache, unspecified, (L98.0) Pyogenic granuloma, (N48.89) Other specified disorders of penis"
+743,9/28/1992,0
+744,10/12/1969,"(M75.110) Incomplete rotator cuff tear or rupture of unspecified shoulder, not specified as traumatic, (R73.03) Prediabetes"
+745,8/15/1988,"(H00.019) Hordeolum externum unspecified eye, unspecified eyelid"
+746,6/9/1981,"(R10.10) Upper abdominal pain, unspecified"
+747,9/10/1979,"(L60.9) Nail disorder, unspecified, (F41.9) Anxiety disorder, unspecified"
+748,7/15/1962,"(E78.49) Other hyperlipidemia, (Z00.01) Encounter for general adult medical exam w abnormal findings"
+749,3/31/1970,"(E66.9) Obesity, unspecified, (G90.09) Other idiopathic peripheral autonomic neuropathy, (Z87.898) Personal history of other specified conditions, (Z87.898) Personal history of other specified conditions"
+750,5/8/1963,(E11.9) Type 2 diabetes mellitus without complications
+751,8/28/1980,"(Z83.3) Family history of diabetes mellitus, (Z82.49) Family hx of ischem heart dis and oth dis of the circ sys, (G50.1) Atypical facial pain"
+752,5/8/1938,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (I10) Essential (primary) hypertension"
+753,7/20/1991,"(L64.9) Androgenic alopecia, unspecified, (N92.0) Excessive and frequent menstruation with regular cycle"
+754,3/1/1973,"(J30.89) Other allergic rhinitis, (K59.00) Constipation, unspecified, (I10) Essential (primary) hypertension"
+755,5/6/1994,0
+756,5/3/1994,"(L25.5) Unspecified contact dermatitis due to plants, except food"
+757,8/25/1989,(J30.89) Other allergic rhinitis
+758,10/9/1960,0
+759,12/14/1984,"(E66.9) Obesity, unspecified, (E66.9) Obesity, unspecified"
+760,6/4/1985,"(R94.5) Abnormal results of liver function studies, (E78.00) Pure hypercholesterolemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications"
+761,7/21/1960,0
+762,10/19/1983,"(I40.9) Acute myocarditis, unspecified"
+763,5/23/1992,0
+764,11/16/1955,"(J22) Unspecified acute lower respiratory infection, (J01.90) Acute sinusitis, unspecified"
+765,8/1/2003,"(K80.00) Calculus of gallbladder w acute cholecyst w/o obstruction, (K29.00) Acute gastritis without bleeding"
+766,4/5/1985,(G40.89) Other seizures
+767,12/25/1969,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension"
+768,1/1/1990,"(J30.89) Other allergic rhinitis, (J45.901) Unspecified asthma with (acute) exacerbation, (J45.20) Mild intermittent asthma, uncomplicated"
+769,11/6/1961,"(R73.09) Other abnormal glucose, (N52.8) Other male erectile dysfunction, (R21) Rash and other nonspecific skin eruption, (T78.1XXD) Oth adverse food reactions, not elsewhere classified, subs, (R19.7) Diarrhea, unspecified"
+770,5/16/1956,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension"
+771,3/16/1988,"(S01.01XA) Laceration without foreign body of scalp, initial encounter, (M23.42) Loose body in knee, left knee, (R05.9) Cough, unspecified, (M79.632) Pain in left forearm"
+772,11/22/1972,"(B35.1) Tinea unguium, (J98.01) Acute bronchospasm, (E78.49) Other hyperlipidemia"
+773,2/4/1964,"(I10) Essential (primary) hypertension, (R07.89) Other chest pain"
+774,4/15/1962,"(S81.832A) Puncture wound without foreign body, left lower leg, initial encounter"
+775,11/1/1960,"(M54.31) Sciatica, right side, (M17.0) Bilateral primary osteoarthritis of knee, (R73.9) Hyperglycemia, unspecified, (H11.002) Unspecified pterygium of left eye"
+776,4/1/1955,"(I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia"
+777,3/22/1964,0
+778,1/27/1952,(I10) Essential (primary) hypertension
+779,8/18/1957,"(E78.5) Hyperlipidemia, unspecified, (E11.40) Type 2 diabetes mellitus with diabetic neuropathy, unsp, (E08.9) Diabetes due to underlying condition w/o complications, (I10) Essential (primary) hypertension"
+780,8/1/1973,"(M54.5) Low back pain, (I10) Essential (primary) hypertension"
+781,5/25/1995,"(R22.1) Localized swelling, mass and lump, neck, (M25.561) Pain in right knee, (N93.8) Other specified abnormal uterine and vaginal bleeding, (N93.8) Other specified abnormal uterine and vaginal bleeding"
+782,11/5/1983,0
+783,10/2/1959,(I10) Essential (primary) hypertension
+784,12/26/1976,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (R14.0) Abdominal distension (gaseous), (F31.9) Bipolar disorder, unspecified, (Z72.0) Tobacco use"
+785,10/1/1956,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (R05.3) Chronic cough"
+786,9/9/1953,0
+787,3/27/1961,"(E78.4) Other hyperlipidemia, (M25.561) Pain in right knee, (M23.41) Loose body in knee, right knee, (G57.12) Meralgia paresthetica, left lower limb"
+788,9/2/1985,"(R10.30) Lower abdominal pain, unspecified"
+789,10/6/1994,0
+790,5/10/1964,"(Z00.01) Encounter for general adult medical exam w abnormal findings, (H11.003) Unspecified pterygium of eye, bilateral"
+791,8/30/1982,"(L24.9) Irritant contact dermatitis, unspecified cause, (D50.0) Iron deficiency anemia secondary to blood loss (chronic)"
+792,9/1/1961,"(R73.03) Prediabetes, (R97.20) Elevated prostate specific antigen [PSA], (E78.2) Mixed hyperlipidemia"
+793,3/6/1982,"(Z00.01) Encounter for general adult medical exam w abnormal findings, (K62.5) Hemorrhage of anus and rectum, (J45.909) Unspecified asthma, uncomplicated, (R94.5) Abnormal results of liver function studies, (E78.5) Hyperlipidemia, unspecified"
+794,7/1/1952,"(I10) Essential (primary) hypertension, (B02.29) Other postherpetic nervous system involvement, (I10) Essential (primary) hypertension"
+795,4/19/1990,(J30.89) Other allergic rhinitis
+796,8/21/1986,(Z00.00) Encntr for general adult medical exam w/o abnormal finding\\\\\
+797,4/19/1972,"(M79.606) Pain in leg, unspecified, (R10.2) Pelvic and perineal pain, (R07.0) Pain in throat"
+798,5/26/1946,"(Z00.00) Encntr for general adult medical exam w/o abnormal findings, (B35.1) Tinea unguium, (R42) Dizziness and giddiness, (R73.03) Prediabetes"
+799,1/4/1973,"(E11.9) Type 2 diabetes mellitus without complications, (E66.9) Obesity, unspecified, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified"
+800,6/7/1958,0
+801,10/25/1997,"(Z11.3) Encntr screen for infections w sexl mode of transmiss, (L30.9) Dermatitis, unspecified"
+802,8/6/1998,(B35.0) Tinea barbae and tinea capitis
+803,9/9/1976,0
+804,11/7/1995,(R87.610) Atyp squam cell of undet signfc cyto smr crvx (ASC-US)
+805,11/18/1995,"(K58.9) Irritable bowel syndrome without diarrhea, (G43.009) Migraine without aura, not intractable, without status migrainosus"
+806,10/27/1978,(Z00.00) Encntr for general adult medical exam w/o abnormal findings
+807,8/9/1974,0
+808,12/8/1958,0
+809,12/28/1977,"(X50.9XXD) Other and unspecified ovrexrtn or strnous move/pstr, subs, (S83.241A) Oth tear of medial meniscus, current injury, r knee, init"
+810,4/16/1966,0
+811,2/16/1968,"(D47.3) Essential (hemorrhagic) thrombocythemia, (I10) Essential (primary) hypertension"
+812,2/22/1971,"(E11.9) Type 2 diabetes mellitus without complications, (N47.1) Phimosis, (W45.8XXS) Other foreign body or object entering through skin, sequela, (M25.522) Pain in left elbow"
+813,10/29/1971,"(B27.90) Infectious mononucleosis, unspecified without complication"
+814,7/6/1987,0
+815,11/21/1979,0
+816,4/5/1977,"(B35.4) Tinea corporis, (S92.511A) Displaced fracture of proximal phalanx of right lesser toe(s), initial encounter for closed fracture"
+817,9/11/1950,"(H40.10X3) Unspecified open-angle glaucoma, severe stage, (I10) Essential (primary) hypertension"
+818,3/12/1974,0
+819,8/12/1980,"(R18.8) Other ascites, (J91.8) Pleural effusion in other conditions classified elsewhere"
+820,8/16/1971,"(R06.00) Dyspnea, unspecified, (R00.2) Palpitations, (R07.82) Intercostal pain"
+821,8/5/1947,(I10) Essential (primary) hypertension
+822,5/6/1970,"(E11.9) Type 2 diabetes mellitus without complications, (K76.0) Fatty (change of) liver, not elsewhere classified"
+823,8/8/1972,"(I10) Essential (primary) hypertension, (H93.A3) Pulsatile tinnitus, bilateral"
+824,1/10/1995,"(D72.1) Eosinophilia, (R10.10) Upper abdominal pain, unspecified"
+825,10/11/1969,"(R04.0) Epistaxis, (L20.9) Atopic dermatitis, unspecified, (U07.1) COVID Coronavirus"
+826,2/26/1992,"(L70.9) Acne, unspecified, (R53.82) Chronic fatigue, unspecified"
+827,10/29/1954,"(M54.6) Pain in thoracic spine, (K59.04) Chronic idiopathic constipation, (M79.673) Pain in unspecified foot"
+828,9/12/1983,"(W54.0XXS) Bitten by dog, sequela, (L03.116) Cellulitis of left lower limb"
+829,7/20/1964,0
+830,12/7/1967,"(G56.01) Carpal tunnel syndrome, right upper limb, (I10) Essential (primary) hypertension, (E78.00) Pure hypercholesterolemia, unspecified"
+831,11/13/1965,0
+832,10/28/1957,0
+833,1/1/1964,"(K59.00) Constipation, unspecified, (R10.2) Pelvic and perineal pain"
+834,3/20/1971,"(E78.2) Mixed hyperlipidemia, (R73.09) Other abnormal glucose, (D72.820) Lymphocytosis (symptomatic), (Z86.69) Personal history of other diseases of the nervous system and sense organs, (I10) Essential (primary) hypertension"
+835,11/10/1977,"(E78.4) Other hyperlipidemia, (R74.01) Elevation of levels of liver transaminase levels, (H93.19) Tinnitus, unspecified ear, (E66.3) Overweight"
+836,12/16/1968,0
+837,3/22/1982,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (G89.4) Chronic pain syndrome, (R05) Cough"
+838,8/16/1966,"(I10) Essential (primary) hypertension, (R73.01) Impaired fasting glucose, (C61) Malignant neoplasm of prostate, (R73.01) Impaired fasting glucose, (M17.11) Unilateral primary osteoarthritis, right knee"
+839,11/1/1953,"(Z89.422) Acquired absence of other left toe(s), (I10) Essential (primary) hypertension, (E11.51) Type 2 diabetes w diabetic peripheral angiopath w/o gangrene, (E78.5) Hyperlipidemia, unspecified"
+840,7/1/1974,(E11.9) Type 2 diabetes mellitus without complications
+841,12/14/1964,0
+842,2/17/1998,"(G43.909) Migraine, unsp, not intractable, without status migrainosus"
+843,2/15/1964,0
+844,4/23/1965,0
+845,11/21/1960,"(I10) Essential (primary) hypertension, (I48.91) Unspecified atrial fibrillation, (R05) Cough, (I48.91) Unspecified atrial fibrillation, (R51.9) Headache, unspecified, (I87.2) Venous insufficiency (chronic) (peripheral), (R31.9) Hematuria, unspecified"
+846,11/25/1960,"(I10) Essential (primary) hypertension, (E78.4) Other hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications"
+847,5/8/1964,"(I63.00) Cerebral infarction due to thombos unsp precerebral artery, (I10) Essential (primary) hypertension"
+848,7/14/1973,"(F32.A) Depression, unspecified"
+849,5/10/1976,"(E03.9) Hypothyroidism, unspecified"
+850,6/30/1987,"(F32.8) Other depressive episodes, (F90.9) Attention-deficit hyperactivity disorder, unspecified type, (A09) Infectious gastroenteritis and colitis, unspecified"
+851,8/22/1958,"(R51.9) Headache, unspecified, (R73.09) Other abnormal glucose, (Z86.15) Personal history of latent tuberculosis infection, (Z22.7) Latent tuberculosis"
+852,9/18/1976,"(M75.21) Bicipital tendinitis, right shoulder, (Z00.00) Encntr for general adult medical exam w/o abnormal findings"
+853,12/10/1986,(I10) Essential (primary) hypertension
+854,6/28/1965,"(S39.012A) Strain of muscle, fascia and tendon of lower back, initial encounter, (K29.70) Gastritis, unspecified, without bleeding, (D64.9) Anemia, unspecified, (R73.09) Other abnormal glucose"
+855,8/20/1973,"(N64.4) Mastodynia, (R10.84) Generalized abdominal pain, (E78.4) Other hyperlipidemia, (F41.1) Generalized anxiety disorder, (R07.9) Chest pain, unspecified"
+856,5/31/1963,(I10) Essential (primary) hypertension
+857,6/10/1977,0
+858,8/31/2005,0
+859,3/26/1971,(R73.03) Prediabetes
+860,8/19/1981,0
+861,6/1/1982,0
+862,4/4/2004,0
+863,8/6/1961,0
+864,7/26/1977,(F41.8) Other specified anxiety disorders
+865,8/12/1996,0
+866,9/5/1945,"(G20.B1) Parkinson's dis with dyskinesia, w/o mention of fluctuations"
+867,1/29/1992,"(F41.9) Anxiety disorder, unspecified, (F42.9) Obsessive-compulsive disorder, unspecified, (J45.40) Moderate persistent asthma, uncomplicated"
+868,6/28/1956,"(L20.9) Atopic dermatitis, unspecified, (E78.2) Mixed hyperlipidemia, (E78.5) Hyperlipidemia, unspecified, (N40.0) Enlarged prostate without lower urinary tract symptoms, (I10) Essential (primary) hypertension"
+869,10/29/1988,"(J45.20) Mild intermittent asthma, uncomplicated"
+870,2/9/1957,"(R03.0) Elevated blood-pressure reading, without diagnosis of hypertension, (H25.9) Unspecified age-related cataract, (E08.8) Diabetes mellitus due to underlying condition with unspecified complications"
+871,8/2/1992,"(M51.9) Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder, (B86) Scabies, (M54.32) Sciatica, left side"
+872,9/19/1987,0
+873,5/12/1988,"(H61.21) Impacted cerumen, right ear, (H69.81) Other specified disorders of Eustachian tube, right ear, (M47.816) Spondylosis w/o myelopathy or radiculopathy, lumbar region, (Q44.6) Cystic disease of liver"
+874,7/13/1975,0
+875,7/8/1957,0
+876,6/16/1978,"(E21.5) Disorder of parathyroid gland, unspecified, (R10.13) Epigastric pain, (R94.6) Abnormal results of thyroid function studies"
+877,9/1/1958,"(I10) Essential (primary) hypertension, (B20) Human immunodeficiency virus [HIV] disease, (K29.00) Acute gastritis without bleeding"
+878,5/26/1973,0
+879,10/27/1988,"(M79.676) Pain in unspecified toe(s), (Z71.6) Tobacco abuse counseling"
+880,3/17/1994,"(M54.50) Low back pain, unspecified, (Z13.9) Encounter for screening, unspecified, (E55.9) Vitamin D deficiency, unspecified, (R73.03) Prediabetes"
+881,6/30/1968,0
+882,4/2/1966,"(G44.019) Episodic cluster headache, not intractable"
+883,12/7/1964,"(F17.210) Nicotine dependence, cigarettes, uncomplicated, (D50.9) Iron deficiency anemia, unspecified, (E11.8) Type 2 diabetes mellitus with unspecified complications, (I50.9) Heart failure, unspecified, (E78.2) Mixed hyperlipidemia"
+884,2/16/1990,"(F33.0) Major depressive disorder, recurrent, mild, (F51.05) Insomnia due to other mental disorder"
+885,4/7/1960,"(I10) Essential (primary) hypertension, (N39.0) Urinary tract infection, site not specified"
+886,4/19/1989,"(R00.0) Tachycardia, unspecified"
+887,6/8/1995,"(R73.03) Prediabetes, (E78.5) Hyperlipidemia, unspecified"
+888,5/10/1970,"(M67.814) Other specified disorders of tendon, left shoulder, (M54.50) Low back pain, unspecified, (S16.1XXA) Strain of muscle, fascia and tendon at neck level, init, (L65.9) Nonscarring hair loss, unspecified"
+889,3/13/1962,"(I10) Essential (primary) hypertension, (K21.0) Gastro-esophageal reflux disease with esophagitis"
+890,6/20/1976,"(N47.1) Phimosis, (E11.9) Type 2 diabetes mellitus without complications, (N47.6) Balanoposthitis"
+891,12/11/1961,0
+892,2/7/1959,0
+893,3/7/1988,(R10.9) Unspecified abdominal pain
+894,7/28/1974,"(I25.6) Silent myocardial ischemia, (R05) Cough, (F41.9) Anxiety disorder, unspecified, (R00.2) Palpitations, (E78.5) Hyperlipidemia, unspecified"
+895,8/30/1964,"(I10) Essential (primary) hypertension, (N52.9) Male erectile dysfunction, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (R73.9) Hyperglycemia, unspecified"
+896,7/28/1978,(E08.8) Diabetes mellitus due to underlying condition with unspecified complications
+897,10/20/1951,"(H91.22) Sudden idiopathic hearing loss, left ear"
+898,7/26/1977,"(R60.9) Edema, unspecified, (L60.0) Ingrowing nail, (Z68.29) Body mass index (BMI) 29.0-29.9, adult"
+899,5/31/1991,"(B34.2) Coronavirus infection, unspecified, (E66.01) Morbid (severe) obesity due to excess calories, (M54.2) Cervicalgia, (L21.0) Seborrhea capitis"
+900,12/25/1961,"(B18.9) Chronic viral hepatitis, unspecified, (L60.1) Onycholysis, (A54.9) Gonococcal infection, unspecified, (I10) Essential (primary) hypertension, (N40.1) Benign prostatic hyperplasia with lower urinary tract symp, (R05.3) Chronic cough"
+901,11/20/1943,"(I10) Essential (primary) hypertension, (M54.5) Low back pain, (Z00.01) Encounter for general adult medical exam w abnormal findings, (M25.569) Pain in unspecified knee"
+902,3/25/1954,"(H92.02) Otalgia, left ear, (H65.492) Other chronic nonsuppurative otitis media, left ear"
+903,2/22/1984,"(M25.562) Pain in left knee, (Z68.28) Body mass index (BMI) 28.0-28.9, adult, (R74.01) Elevation of levels of liver transaminase levels"
+904,7/24/1961,"(E11.22) Type 2 diabetes mellitus with diabetic chronic kidney disease, (I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (E11.8) Type 2 diabetes mellitus with unspecified complications, (L20.81) Atopic neurodermatitis"
+905,9/27/1975,"(S63.682A) Other sprain of left thumb, initial encounter, (G56.03) Carpal tunnel syndrome, bilateral upper limbs"
+906,8/29/1973,"(N83.202) Unspecified ovarian cyst, left side, (S03.2XXA) Dislocation of tooth, initial encounter, (D50.8) Other iron deficiency anemias"
+907,9/28/1983,"(B96.81) Helicobacter pylori as the cause of diseases classd elswhr, (N52.9) Male erectile dysfunction, unspecified, (M25.562) Pain in left knee, (I10) Essential (primary) hypertension"
+908,5/13/1963,"(R31.9) Hematuria, painless, (R10.11) Right upper quadrant pain, (N39.0) Urinary tract infection, site not specified, (K80.20) Calculus of gallbladder without cholecystitis without obstruction"
+909,4/16/1995,(E10.9) Type 1 diabetes mellitus without complications
+910,9/2/1961,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (E05.90) Thyrotoxicosis, unsp without thyrotoxic crisis or storm, (E05.10) Thyrotxcosis w toxic sing thyroid nodule w/o thyrotxc crisis"
+911,2/7/1986,(E11.9) Type 2 diabetes mellitus without complications
+912,10/15/1954,"(E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension"
+913,11/28/1965,"(E07.89) Other specified disorders of thyroid, (E04.0) Nontoxic diffuse goiter"
+914,6/24/1963,"(A53.9) Syphilis, unspecified, (E78.5) Hyperlipidemia, unspecified, (M15.0) Primary generalized (osteo)arthritis"
+915,5/11/1980,(H53.8) Other visual disturbances
+916,6/30/1947,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (M10.9) Gout, unspecified"
+917,12/24/1984,"(E11.21) Type 2 diabetes mellitus with diabetic nephropathy, (L20.89) Other atopic dermatitis"
+918,9/15/2001,"(R21) Rash and other nonspecific skin eruption, (H10.021) Other mucopurulent conjunctivitis, right eye, (A08.4) Viral intestinal infection, unspecified"
+919,10/16/1984,0
+920,7/25/1988,"(N63) Unspecified lump in breast, (K30) Functional dyspepsia, (N64.4) Mastodynia"
+921,11/16/1995,0
+922,2/23/1995,0
+923,2/6/1989,"(G43.409) Hemiplegic migraine, not intractable, without status migrainosus"
+924,1/19/1976,"(G56.01) Carpal tunnel syndrome, right upper limb, (R73.01) Impaired fasting glucose"
+925,8/9/1986,"(R35.0) Frequency of micturition, (H11.153) Pinguecula, bilateral"
+926,7/3/1988,"(R73.03) Prediabetes, (E78.5) Hyperlipidemia, unspecified"
+927,4/8/1975,"(K51.90) Ulcerative colitis, unspecified, without complications, (R53.83) Other fatigue, (D25.9) Leiomyoma of uterus, unspecified, (D50.9) Iron deficiency anemia, unspecified"
+928,5/15/1977,0
+929,8/29/1983,(I83.813) Varicose veins of bilateral lower extremities with pain
+930,12/31/1985,"(E03.9) Hypothyroidism, unspecified"
+931,5/5/1982,"(S29.012A) Strain of muscle and tendon of back wall of thorax, init"
+932,12/22/1958,"(I10) Essential (primary) hypertension, (D12.6) Benign neoplasm of colon, unspecified, (D12.6) Benign neoplasm of colon, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified"
+933,6/23/1978,"(J03.90) Acute tonsillitis, unspecified"
+934,11/10/1992,"(R22.1) Localized swelling, mass and lump, neck, (E80.7) Disorder of bilirubin metabolism, unspecified, (N50.3) Cyst of epididymis"
+935,12/13/1965,"(E03.9) Hypothyroidism, unspecified, (H81.10) Benign paroxysmal vertigo, unspecified ear"
+936,1/14/1966,0
+937,9/30/1962,0
+938,7/2/1994,0
+939,1/9/1998,(G57.91) Unspecified mononeuropathy of right lower limb
+940,10/19/1957,0
+941,10/31/1975,0
+942,12/27/1995,"(H61.23) Impacted cerumen, bilateral"
+943,6/13/1964,"(M79.673) Pain in unspecified foot, (M25.50) Pain in unspecified joint, (R00.2) Palpitations, (R25.1) Tremor, unspecified"
+944,5/25/1943,"(R35.1) Nocturia, (R35.0) Frequency of micturition, (I21.9) Acute myocardial infarction, unspecified, (N40.1) Benign prostatic hyperplasia with lower urinary tract symptoms"
+945,12/7/1968,"(I48.0) Paroxysmal atrial fibrillation, (R53.83) Other fatigue, (E11.9) Type 2 diabetes mellitus without complications"
+946,10/5/1971,"(E78.00) Pure hypercholesterolemia, unspecified"
+947,7/21/1943,"(R00.1) Bradycardia, unspecified, (I44.0) Atrioventricular block, first degree, (M17.0) Bilateral primary osteoarthritis of knee, (R31.2) Other microscopic hematuria"
+948,12/31/1977,"(N60.01) Solitary cyst of right breast, (D50.8) Other iron deficiency anemias, (D50.8) Other iron deficiency anemias, (N93.9) Abnormal uterine and vaginal bleeding, unspecified"
+949,3/2/1964,"(E03.9) Hypothyroidism, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (R76.12) Nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis, (A15.0) Tuberculosis of lung"
+950,6/25/1986,"(L72.11) Pilar cyst, (F44.81) Dissociative identity disorder, (G43.909) Migraine, unsp, not intractable, without status migrainosus"
+951,6/11/1964,"(G62.9) Polyneuropathy, unspecified, (E78.4) Other hyperlipidemia, (E66.9) Obesity, unspecified, (I10) Essential (primary) hypertension"
+952,3/6/1959,"(M75.91) Shoulder lesion, unspecified, right shoulder"
+953,4/11/1958,"(R05.9) Cough, unspecified"
+954,10/12/1980,"(N89.8) Other specified noninflammatory disorders of vagina, (D25.9) Leiomyoma of uterus, unspecified, (A60.00) Herpesviral infection of urogenital system, unspecified, (S39.012A) Strain of muscle, fascia and tendon of lower back, initial encounter"
+955,8/1/1954,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension"
+956,2/3/1989,"(B35.4) Tinea corporis, (E11.9) Type 2 diabetes mellitus without complications, (J45.20) Mild intermittent asthma, uncomplicated"
+957,4/18/1974,0
+958,6/1/1993,(L28.0) Lichen simplex chronicus
+959,3/21/1970,"(H53.8) Other visual disturbances, (E07.89) Other specified disorders of thyroid"
+960,2/11/1980,"(D64.9) Anemia, unspecified"
+961,6/10/1952,0
+962,8/8/1979,(I10) Essential (primary) hypertension
+963,11/30/1991,"(N94.6) Dysmenorrhea, unspecified, (N93.9) Abnormal uterine and vaginal bleeding, unspecified, (Z01.419) Encntr for gyn exam (general) (routine) w/o abn findings, (R51.9) Headache, unspecified, (R10.13) Epigastric pain"
+964,6/9/1977,"(E11.9) Type 2 diabetes mellitus without complications, (N63.10) Unspecified lump in the right breast, unspecified quadrant"
+965,2/15/1957,0
+966,5/24/1976,"(N64.4) Mastodynia, (S16.1XXA) Strain of muscle, fascia and tendon at neck level, initial encounter"
+967,11/7/1997,0
+968,1/12/1988,0
+969,7/20/1972,"(B96.81) Helicobacter pylori as the cause of diseases classd elswhr, (R09.89) Oth symptoms and signs involving the circ and resp systems, (K29.90) Gastroduodenitis, unspecified, without bleeding"
+970,10/16/1956,"(J32.9) Chronic sinusitis, unspecified, (K62.1) Rectal polyp, (K59.00) Constipation, unspecified, (R73.03) Prediabetes, (K44.9) Diaphragmatic hernia without obstruction or gangrene"
+971,6/14/1998,0
+972,8/29/1970,"(Z22.7) Latent tuberculosis, (M79.671) Pain in right foot"
+973,1/31/1957,"(B00.9) Herpesviral infection, unspecified"
+974,1/14/1997,0
+975,10/21/1968,"(Z00.00) Encounter for general adult medical examination without abnormal findings, (M65.4) Radial styloid tenosynovitis [de Quervain], (E03.9) Hypothyroidism, unspecified"
+976,8/2/1991,"(G44.209) Tension-type headache, unspecified, not intractable"
+977,6/22/1970,0
+978,2/16/1946,"(E03.9) Hypothyroidism, unspecified, (I10) Essential (primary) hypertension, (M17.9) Osteoarthritis of knee, unspecified"
+979,2/16/1987,"(R76.11) Nonspecific reaction to tuberculin skin test without active tuberculosis, (E66.9) Obesity, unspecified, (R20.2) Paresthesia of skin, (R73.9) Hyperglycemia, unspecified"
+980,5/25/1969,"(E08.9) Diabetes due to underlying condition w/o complications, (E66.9) Obesity, unspecified"
+981,10/23/1981,"(H90.42) Sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side, (H93.12) Tinnitus, left ear, (H92.02) Otalgia, left ear"
+982,5/10/1977,"(E11.9) Type 2 diabetes mellitus without complications, (E11.8) Type 2 diabetes mellitus with unspecified complications, (I10) Essential (primary) hypertension"
+983,4/8/1993,"(R30.0) Dysuria, (N41.1) Chronic prostatitis"
+984,11/13/1961,"(K12.2) Cellulitis and abscess of mouth, (M54.30) Sciatica, unspecified side"
+985,2/6/1980,0
+986,8/16/1987,"(G44.209) Tension-type headache, unspecified, not intractable, (G44.209) Tension-type headache, unspecified, not intractable, (K76.0) Fatty (change of) liver, not elsewhere classified"
+987,9/14/1944,"(R06.00) Dyspnea, unspecified, (I10) Essential (primary) hypertension"
+988,6/12/1995,"(R87.810) Cervical high risk HPV DNA test positive, (H52.203) Unspecified astigmatism, bilateral, (E66.9) Obesity, unspecified, (M54.50) Low back pain, unspecified"
+989,12/15/1990,0
+990,3/11/1953,"(I70.0) Atherosclerosis of aorta, (N13.30) Unspecified hydronephrosis, (R10.84) Generalized abdominal pain"
+991,5/27/1954,"(M16.11) Unilateral primary osteoarthritis, right hip"
+992,4/2/1963,"(M13.0) Polyarthritis, unspecified"
+993,12/10/1983,"(K64.4) Residual hemorrhoidal skin tags, (Z00.00) Encounter for general adult medical examination without abnormal findings, (R82.90) Unspecified abnormal findings in urine"
+994,11/15/1957,0
+995,9/10/1984,"(E04.9) Nontoxic goiter, unspecified, (R35.0) Frequency of micturition, (L70.9) Acne, unspecified, (M25.569) Pain in unspecified knee"
+996,7/27/1994,0
+997,10/25/1970,0
+998,12/12/1983,(Z00.00) Encntr for general adult medical exam w/o abnormal findings
+999,2/11/1971,"(R05.9) Cough, unspecified"
+1000,3/4/1987,0
+1001,5/26/1986,"(N43.40) Spermatocele of epididymis, unspecified"
+1002,8/30/1971,"(K30) Functional dyspepsia, (L50.1) Idiopathic urticaria, (Z12.31) Encounter for screening mammogram for malignant neoplasm of breast"
+1003,7/27/1962,"(T67.01XA) Heatstroke and sunstroke, initial encounter, (N32.9) Bladder disorder, unspecified, (I10) Essential (primary) hypertension, (I25.10) Atherosclerotic heart disease of native coronary artery without angina pectoris, (M54.32) Sciatica, left side"
+1004,7/20/1958,"(E11.8) Type 2 diabetes mellitus with unspecified complications, (I10) Essential (primary) hypertension"
+1005,5/11/1962,"(I10) Essential (primary) hypertension, (E66.9) Obesity, unspecified, (K76.0) Fatty (change of) liver, not elsewhere classified, (E78.5) Hyperlipidemia, unspecified"
+1006,4/20/1987,"(L30.9) Dermatitis, unspecified"
+1007,4/26/1988,0
+1008,3/3/1965,0
+1009,12/5/1960,(K58.9) Irritable bowel syndrome without diarrhea
+1010,7/19/1986,"(G64) Other disorders of peripheral nervous system, (I83.813) Varicose veins of bilateral lower extremities with pain"
+1011,6/11/1980,"(Z98.82) Breast implant status, (N64.9) Disorder of breast, unspecified"
+1012,3/1/1949,"(E87.6) Hypokalemia, (U07.1) COVID Coronavirus, (I10) Essential (primary) hypertension, (D64.9) Anemia, unspecified, (M19.90) Unspecified osteoarthritis, unspecified site, (R20.1) Hypoesthesia of skin"
+1013,4/15/1981,0
+1014,7/7/1981,"(I10) Essential (primary) hypertension, (E66.9) Obesity, unspecified, (E11.8) Type 2 diabetes mellitus with unspecified complications, (N49.2) Inflammatory disorders of scrotum, (R06.83) Snoring"
+1015,8/17/1977,0
+1016,1/10/1999,0
+1017,9/13/1994,"(R73.03) Prediabetes, (E78.1) Pure hyperglyceridemia, (B08.1) Molluscum contagiosum, (N89.8) Other specified noninflammatory disorders of vagina"
+1018,8/24/1981,"(E78.5) Hyperlipidemia, unspecified, (R73.01) Impaired fasting glucose, (I10) Essential (primary) hypertension"
+1019,4/26/1970,"(M54.9) Dorsalgia, unspecified, (R51.9) Headache, unspecified, (N95.8) Other specified menopausal and perimenopausal disorders, (Z00.00) Encntr for general adult medical exam w/o abnormal findings, (K29.70) Gastritis, unspecified, without bleeding"
+1020,2/14/1972,"(F32.8) Other depressive episodes, (R10.9) Unspecified abdominal pain"
+1021,12/31/1949,"(Z00.01) Encounter for general adult medical exam w abnormal findings, (I10) Essential (primary) hypertension, (R05.3) Chronic cough"
+1022,3/3/2000,"(Z68.36) Body mass index (BMI) 36.0-36.9, adult, (I10) Essential (primary) hypertension"
+1023,9/17/1979,(M54.5) Low back pain
+1024,3/17/1984,0
+1025,9/29/1988,0
+1026,3/17/1978,0
+1027,2/10/1966,0
+1028,10/17/1956,0
+1029,9/3/1992,(R36.0) Urethral discharge without blood
+1030,9/3/1993,"(M25.512) Pain in left shoulder, (E78.4) Other hyperlipidemia, (Z86.69) Personal history of dis of the nervous sys and sense organs, (M25.512) Pain in left shoulder"
+1031,3/20/1978,"(H92.02) Otalgia, left ear, (E66.9) Obesity, unspecified"
+1032,12/23/1984,0
+1033,4/11/1977,"(N39.0) Urinary tract infection, site not specified, (M54.5) Low back pain"
+1034,7/9/1969,"(E78.5) Hyperlipidemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (R73.01) Impaired fasting glucose, (I10) Essential (primary) hypertension, (Z72.0) Tobacco use"
+1035,12/10/1991,0
+1036,11/21/1995,0
+1037,1/7/1980,"(M62.838) Other muscle spasm, (I47.1) Supraventricular tachycardia, (M54.32) Sciatica, left side"
+1038,3/5/1944,"(E11.9) Type 2 diabetes mellitus without complications, (I49.5) Sick sinus syndrome, (I10) Essential (primary) hypertension"
+1039,10/27/1983,"(G56.00) Carpal tunnel syndrome, unspecified upper limb, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R51.9) Headache, unspecified, (G47.00) Insomnia, unspecified"
+1040,2/19/1986,0
+1041,1/1/1964,"(E03.9) Hypothyroidism, unspecified, (E66.9) Obesity, unspecified, (E78.2) Mixed hyperlipidemia"
+1042,8/30/1977,"(F43.23) Adjustment disorder with mixed anxiety and depressed mood, (G51.0) Bell's palsy, (E89.0) Postprocedural hypothyroidism"
+1043,4/18/1951,"(J44.9) Chronic obstructive pulmonary disease, unspecified"
+1044,11/11/1980,"(G40.309) Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+1045,5/25/1955,"(C61) Malignant neoplasm of prostate, (R51) Headache, (M54.5) Low back pain, (N40.0) Benign prostatic hyperplasia without lower urinary tract symptoms"
+1046,1/20/1987,"(Z86.79) Personal history of other diseases of the circulatory system, (F41.9) Anxiety disorder, unspecified"
+1047,4/4/2002,"(L50.0) Allergic urticaria, (R21) Rash and other nonspecific skin eruption"
+1048,5/31/1981,0
+1049,10/25/1963,"(I10) Essential (primary) hypertension, (R94.5) Abnormal results of liver function studies, (R73.9) Hyperglycemia, unspecified"
+1050,8/11/1993,"(B07.0) Plantar wart, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R05) Cough"
+1051,10/1/1977,"(M62.838) Other muscle spasm, (E78.2) Mixed hyperlipidemia"
+1052,3/17/1994,"(N85.00) Endometrial hyperplasia, unspecified, (D50.0) Iron deficiency anemia secondary to blood loss (chronic), (N92.0) Excessive and frequent menstruation with regular cycle, (D25.0) Submucous leiomyoma of uterus"
+1053,1/10/1969,"(E03.9) Hypothyroidism, unspecified, (I10) Essential (primary) hypertension, (F32.A) Depression, unspecified"
+1054,5/24/1991,"(E78.3) Hyperchylomicronemia, (Z00.00) Encounter for general adult medical examination without abnormal findings, (M25.552) Pain in left hip, (E78.1) Pure hyperglyceridemia"
+1055,6/19/1957,0
+1056,4/24/1941,"(S72.009A) Fracture of unsp part of neck of unsp femur, init, (M81.0) Age-related osteoporosis w/o current pathological fracture"
+1057,3/1/1954,"(I10) Essential (primary) hypertension, (Z00.00) Encntr for general adult medical exam w/o abnormal findings, (R73.03) Prediabetes, (E78.49) Other hyperlipidemia, (M13.861) Other specified arthritis, right knee"
+1058,2/5/1967,"(G56.03) Carpal tunnel syndrome, bilateral upper limbs, (M47.812) Spondylosis without myelopathy or radiculopathy, cervical region, (M50.30) Other cervical disc degeneration, unspecified cervical region, (D70.9) Neutropenia, unspecified"
+1059,6/29/1994,0
+1060,4/11/1994,"(Z33.1) Pregnant state, incidental"
+1061,10/29/1972,0
+1062,6/4/1987,"(M54.50) Low back pain, unspecified, (S76.811A) Strain of musc/fasc/tend at thigh level, right thigh, init, (Z68.30) Body mass index (BMI) 30.0-30.9, adult"
+1063,9/25/1989,"(R00.2) Palpitations, (L65.9) Nonscarring hair loss, unspecified, (R42) Dizziness and giddiness, (M54.9) Dorsalgia, unspecified, (R20.2) Paresthesia of skin"
+1064,4/27/1960,"(E78.00) Pure hypercholesterolemia, unspecified"
+1065,6/2/1967,(Z00.00) Encounter for general adult medical examination without abnormal findings
+1066,5/2/1990,0
+1067,4/13/1991,"(L20.9) Atopic dermatitis, unspecified"
+1068,3/28/1961,0
+1069,6/18/1959,"(N52.9) Male erectile dysfunction, unspecified"
+1070,3/3/1951,0
+1071,11/15/1986,0
+1072,2/11/1966,0
+1073,9/24/1967,"(R51.9) Headache, unspecified, (Z83.3) Family history of diabetes mellitus, (L98.9) Disorder of the skin and subcutaneous tissue, unspecified"
+1074,7/2/1983,(E10.9) Type 1 diabetes mellitus without complications
+1075,12/12/1966,"(E66.9) Obesity, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (R31.9) Hematuria, unspecified, (L83) Acanthosis nigricans, (E78.5) Hyperlipidemia, unspecified, (L20.81) Atopic neurodermatitis"
+1076,2/19/2002,"(F32.A) Depression, unspecified, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr, (F12.20) Cannabis dependence, uncomplicated"
+1077,8/4/1951,"(S52.001A) Unspecified fracture of upper end of right ulna, initial encounter for closed fracture, (L25.9) Unspecified contact dermatitis, unspecified cause"
+1078,12/27/1971,0
+1079,8/30/1977,"(N52.9) Male erectile dysfunction, unspecified, (K64.0) First degree hemorrhoids, (R73.03) Prediabetes, (R79.89) Other specified abnormal findings of blood chemistry"
+1080,8/6/1968,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (E08.9) Diabetes due to underlying condition w/o complications"
+1081,12/7/1992,"(L64.9) Androgenic alopecia, unspecified, (E03.9) Hypothyroidism, unspecified"
+1082,7/26/1952,0
+1083,8/16/1982,"(E78.2) Mixed hyperlipidemia, (E10.9) Type 1 diabetes mellitus without complications, (I10) Essential (primary) hypertension"
+1084,10/23/1988,"(L03.211) Cellulitis of face, (R74.01) Elevation of levels of liver transaminase levels"
+1085,5/12/1973,"(S62.025G) Nondisplaced fracture of middle third of navicular [scaphoid] bone of left wrist, subsequent encounter for fracture with delayed healing"
+1086,8/16/1960,"(E78.5) Hyperlipidemia, unspecified, (E13.9) Other specified diabetes mellitus without complications, (E66.8) Other obesity, (I10) Essential (primary) hypertension, (M54.12) Radiculopathy, cervical region, (M54.5) Low back pain"
+1087,9/25/1948,"(E11.9) Type 2 diabetes mellitus without complications, (K76.0) Fatty (change of) liver, not elsewhere classified"
+1088,4/15/1972,"(M54.50) Low back pain, unspecified, (N50.811) Right testicular pain, (M25.831) Other specified joint disorders, right wrist, (K62.5) Hemorrhage of anus and rectum, (H91.93) Unspecified hearing loss, bilateral"
+1089,9/5/1967,0
+1090,2/6/1957,"(I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (Z22.7) Latent tuberculosis, (E11.9) Type 2 diabetes mellitus without complications, (E11.69) Type 2 diabetes mellitus with other specified complication"
+1091,4/24/1978,"(F41.9) Anxiety disorder, unspecified, (R22.1) Localized swelling, mass and lump, neck, (Z00.00) Encntr for general adult medical exam w/o abnormal findings"
+1092,1/12/1985,"(K40.90) Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent"
+1093,10/19/1983,"(H51.0) Palsy (spasm) of conjugate gaze, (R20.2) Paresthesia of skin, (H53.423) Scotoma of blind spot area, bilateral"
+1094,6/23/1956,"(E78.49) Other hyperlipidemia, (R73.02) Impaired glucose tolerance (oral), (E87.6) Hypokalemia, (R76.11) Nonspecific reaction to skin test w/o active tuberculosis, (I10) Essential (primary) hypertension"
+1095,3/5/1996,"(B35.6) Tinea cruris, (K11.20) Sialoadenitis, unspecified, (H81.12) Benign paroxysmal vertigo, left ear, (R13.10) Dysphagia, unspecified, (F41.0) Panic disorder [episodic paroxysmal anxiety], (I88.8) Other nonspecific lymphadenitis"
+1096,5/11/1974,"(H10.9) Unspecified conjunctivitis, (R31.2) Other microscopic hematuria, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr"
+1097,8/24/1995,"(M54.5) Low back pain, (Z68.33) Body mass index (BMI) 33.0-33.9, adult, (N48.89) Other specified disorders of penis, (L02.91) Cutaneous abscess, unspecified, (R73.01) Impaired fasting glucose"
+1098,5/27/1971,"(I10) Essential (primary) hypertension, (R04.0) Epistaxis, (N84.0) Polyp of corpus uteri"
+1099,11/29/1969,"(I10) Essential (primary) hypertension, (Z72.0) Tobacco use, (B35.3) Tinea pedis, (K64.9) Unspecified hemorrhoids"
+1100,7/17/1991,0
+1101,4/4/1964,"(Z87.442) Personal history of urinary calculi, (R10.9) Unspecified abdominal pain"
+1102,10/21/1952,"(H61.23) Impacted cerumen, bilateral, (J01.90) Acute sinusitis, unspecified"
+1103,9/16/1936,"(I48.20) Chronic atrial fibrillation, unspecified"
+1104,1/22/1971,"(R73.02) Impaired glucose tolerance (oral), (I10) Essential (primary) hypertension, (A63.0) Anogenital (venereal) warts, (E78.2) Mixed hyperlipidemia, (L30.0) Nummular dermatitis"
+1105,7/28/1968,"(E78.5) Hyperlipidemia, unspecified, (M22.40) Chondromalacia patellae, unspecified knee"
+1106,3/20/1981,(J30.0) Vasomotor rhinitis
+1107,10/16/1970,"(K59.00) Constipation, unspecified, (D50.9) Iron deficiency anemia, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (K42.9) Umbilical hernia without obstruction or gangrene, (K76.0) Fatty (change of) liver, not elsewhere classified"
+1108,8/26/1962,"(K80.20) Calculus of gallbladder without cholecystitis without obstruction, (K05.11) Chronic gingivitis, non-plaque induced, (E78.5) Hyperlipidemia, unspecified, (R94.5) Abnormal results of liver function studies, (I10) Essential (primary) hypertension"
+1109,6/17/1976,"(I10) Essential (primary) hypertension, (I50.9) Heart failure, unspecified, (E66.9) Obesity, unspecified, (B18.1) Chronic viral hepatitis B without delta-agent"
+1110,6/8/1972,"(G40.89) Other seizures, (G45.4) Transient global amnesia, (N43.3) Hydrocele, unspecified"
+1111,4/28/1985,"(K21.0) Gastro-esophageal reflux disease with esophagitis, (E78.5) Hyperlipidemia, unspecified, (C85.85) Other specified types of non-Hodgkin lymphoma, lymph nodes of inguinal region and lower limb"
+1112,10/14/1991,"(G44.049) Chronic paroxysmal hemicrania, not intractable, (E28.2) Polycystic ovarian syndrome, (Z01.419) Encntr for gyn exam (general) (routine) w/o abn findings"
+1113,10/22/1972,"(R23.9) Unspecified skin changes, (E11.9) Type 2 diabetes mellitus without complications"
+1114,12/20/1995,(H57.89) Other specified disorders of eye and adnexa
+1115,3/9/1963,"(M54.2) Cervicalgia, (Z12.31) Encntr screen mammogram for malignant neoplasm of breast, (H61.22) Impacted cerumen, left ear, (H81.10) Benign paroxysmal vertigo, unspecified ear"
+1116,6/10/1966,0
+1117,3/28/1976,"(E78.5) Hyperlipidemia, unspecified, (K21.0) Gastro-esophageal reflux disease with esophagitis, (F17.210) Nicotine dependence, cigarettes, uncomplicated"
+1118,10/5/1991,"(E28.2) Polycystic ovarian syndrome, (J31.0) Chronic rhinitis, (Z68.26) Body mass index (BMI) 26.0-26.9, adult"
+1119,5/26/1976,"(M54.12) Radiculopathy, cervical region, (R73.03) Prediabetes"
+1120,11/21/1988,"(M25.562) Pain in left knee, (K76.0) Fatty (change of) liver, not elsewhere classified, (K14.0) Glossitis"
+1121,3/13/1971,"(D64.9) Anemia, unspecified, (I95.1) Orthostatic hypotension"
+1122,4/1/1942,(M25.562) Pain in left knee
+1123,1/9/1991,"(M10.9) Gout, unspecified"
+1124,4/8/1986,"(S03.1XXA) Dislocation of septal cartilage of nose, initial encounter, (E66.9) Obesity, unspecified, (J30.89) Other allergic rhinitis"
+1125,4/27/1965,"(R05.1) Acute cough, (L20.84) Intrinsic (allergic) eczema"
+1126,2/23/1994,(M25.541) Pain in joints of right hand
+1127,3/30/1967,"(Z72.0) Tobacco use, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+1128,8/27/1961,"(B71.9) Cestode infection, unspecified, (R20.2) Paresthesia of skin"
+1129,1/4/2001,"(R10.9) Unspecified abdominal pain, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr"
+1130,12/22/1974,"(G56.03) Carpal tunnel syndrome, bilateral upper limbs"
+1131,12/24/1970,"(D64.9) Anemia, unspecified, (E78.2) Mixed hyperlipidemia, (M54.5) Low back pain, (N92.4) Excessive bleeding in the premenopausal period"
+1132,9/15/1967,(E11.9) Type 2 diabetes mellitus without complications
+1133,3/30/1968,"(I10) Essential (primary) hypertension, (E79.0) Hyperuricemia w/o signs of inflam arthrit and tophaceous dis, (E53.8) Deficiency of other specified B group vitamins, (M72.2) Plantar fascial fibromatosis"
+1134,5/28/1966,"(E78.5) Hyperlipidemia, unspecified, (S39.012A) Strain of muscle, fascia and tendon of lower back, initial encounter, (R10.13) Epigastric pain, (E11.9) Type 2 diabetes mellitus without complications, (E03.9) Hypothyroidism, unspecified"
+1135,1/14/1975,0
+1136,3/14/1973,0
+1137,6/9/1949,"(R31.29) Other microscopic hematuria, (N39.0) Urinary tract infection, site not specified, (E78.5) Hyperlipidemia, unspecified"
+1138,3/20/1962,"(I10) Essential (primary) hypertension, (I87.2) Venous insufficiency (chronic) (peripheral)"
+1139,5/28/1967,"(I10) Essential (primary) hypertension, (E11.21) Type 2 diabetes mellitus with diabetic nephropathy"
+1140,11/11/1968,"(Z72.0) Tobacco use, (R31.0) Gross hematuria, (K92.1) Melena"
+1141,9/25/1953,"(E78.00) Pure hypercholesterolemia, unspecified, (R03.0) Elevated blood-pressure reading, w/o diagnosis of htn"
+1142,12/27/1967,0
+1143,7/6/1940,(I10) Essential (primary) hypertension
+1144,9/21/1934,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (I48.20) Chronic atrial fibrillation, unspecified, (I50.9) Heart failure, unspecified, (I10) Essential (primary) hypertension"
+1145,2/15/1972,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (K29.50) Unspecified chronic gastritis without bleeding"
+1146,11/1/2000,(F41.1) Generalized anxiety disorder
+1147,6/11/1984,(L08.89) Oth local infections of the skin and subcutaneous tissue
+1148,2/19/1991,"(K43.9) Ventral hernia without obstruction or gangrene, (E11.9) Type 2 diabetes mellitus without complications, (N76.0) Acute vaginitis"
+1149,1/1/1990,0
+1150,8/23/1991,"(E66.01) Morbid (severe) obesity due to excess calories, (W57.XXXA) Bit/stung by nonvenom insect & oth nonvenom arthropods, init, (M65.4) Radial styloid tenosynovitis [de Quervain]"
+1151,3/23/1981,(R20.2) Paresthesia of skin
+1152,10/4/1998,"(Z72.0) Tobacco use, (J06.9) Acute upper respiratory infection, unspecified, (J20.9) Acute bronchitis, unspecified"
+1153,6/28/1963,0
+1154,8/30/1965,"(E05.90) Thyrotoxicosis, unspecified without thyrotoxic crisis or storm, (E21.3) Hyperparathyroidism, unspecified"
+1155,1/25/1969,0
+1156,6/30/1965,"(I25.10) Athscl heart disease of native coronary artery w/o ang pctrs, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension"
+1157,1/17/1971,(I10) Essential (primary) hypertension
+1158,2/1/1979,"(M67.942) Unspecified disorder of synovium and tendon, left hand, (F17.210) Nicotine dependence, cigarettes, uncomplicated, (E78.2) Mixed hyperlipidemia, (R73.03) Prediabetes, (I10) Essential (primary) hypertension"
+1159,10/31/1954,"(I10) Essential (primary) hypertension, (F17.210) Nicotine dependence, cigarettes, uncomplicated, (E11.8) Type 2 diabetes mellitus with unspecified complications, (M10.9) Gout, unspecified, (E78.5) Hyperlipidemia, unspecified"
+1160,4/12/1962,"(R31.2) Other microscopic hematuria, (F41.9) Anxiety disorder, unspecified, (K52.9) Noninfective gastroenteritis and colitis, unspecified"
+1161,8/9/1974,"(E66.9) Obesity, unspecified, (I10) Essential (primary) hypertension, (J45.901) Unspecified asthma with (acute) exacerbation"
+1162,11/8/1992,0
+1163,1/15/1962,"(M17.9) Osteoarthritis of knee, unspecified, (E11.9) Type 2 diabetes mellitus without complications"
+1164,4/8/1994,"(N92.6) Irregular menstruation, unspecified, (K58.9) Irritable bowel syndrome without diarrhea"
+1165,6/30/1969,"(H00.019) Hordeolum externum unspecified eye, unspecified eyelid"
+1166,12/21/1993,"(M54.50) Low back pain, unspecified"
+1167,7/22/1983,"(E78.5) Hyperlipidemia, unspecified, (J06.9) Acute upper respiratory infection, unspecified, (D62) Acute posthemorrhagic anemia, (G44.209) Tension-type headache, unspecified, not intractable, (N39.0) Urinary tract infection, site not specified"
+1168,7/2/1996,"(Z68.34) Body mass index (BMI) 34.0-34.9, adult, (L30.9) Dermatitis, unspecified, (A04.9) Bacterial intestinal infection, unspecified, (L83) Acanthosis nigricans, (R19.5) Other fecal abnormalities"
+1169,1/14/1998,"(Z72.51) High risk heterosexual behavior, (E66.3) Overweight"
+1170,3/22/1959,"(R55) Syncope and collapse, (K59.00) Constipation, unspecified, (N39.41) Urge incontinence, (F43.23) Adjustment disorder with mixed anxiety and depressed mood"
+1171,10/31/1996,"(K64.8) Other hemorrhoids, (Z72.0) Tobacco use, (J98.8) Other specified respiratory disorders"
+1172,11/13/1969,"(I10) Essential (primary) hypertension, (R35.0) Frequency of micturition, (E66.9) Obesity, unspecified, (R06.00) Dyspnea, unspecified"
+1173,4/28/1958,"(E03.9) Hypothyroidism, unspecified, (K21.9) Gastro-esophageal reflux disease without esophagitis, (G47.30) Sleep apnea, unspecified, (F52.21) Male erectile disorder, (E29.1) Testicular hypofunction"
+1174,9/27/1994,(E28.2) Polycystic ovarian syndrome
+1175,6/28/1985,0
+1176,10/14/1962,0
+1177,7/31/1963,"(N40.0) Benign prostatic hyperplasia without lower urinry tract symp, (E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension"
+1178,4/17/1967,"(E78.00) Pure hypercholesterolemia, unspecified, (I10) Essential (primary) hypertension, (M19.90) Unspecified osteoarthritis, unspecified site"
+1179,4/20/1977,"(R53.83) Other fatigue, (H00.014) Hordeolum externum left upper eyelid, (E78.2) Mixed hyperlipidemia, (G72.2) Myopathy due to other toxic agents"
+1180,2/10/1947,"(L20.9) Atopic dermatitis, unspecified, (E03.9) Hypothyroidism, unspecified, (E78.2) Mixed hyperlipidemia, (R01.1) Cardiac murmur, unspecified, (D50.9) Iron deficiency anemia, unspecified, (D64.9) Anemia, unspecified"
+1181,11/11/1965,"(R10.11) Right upper quadrant pain, (I10) Essential (primary) hypertension, (E78.00) Pure hypercholesterolemia, unspecified"
+1182,5/2/1953,0
+1183,6/6/1985,"(L29.0) Pruritus ani, (E66.3) Overweight, (E78.49) Other hyperlipidemia"
+1184,8/6/1964,"(R73.03) Prediabetes, (J06.9) Acute upper respiratory infection, unspecified, (I10) Essential (primary) hypertension, (D56.9) Thalassemia, unspecified"
+1185,7/25/1962,"(S93.401A) Sprain of unspecified ligament of right ankle, initial encounter, (I10) Essential (primary) hypertension, (D56.3) Thalassemia minor"
+1186,5/12/1979,0
+1187,9/18/1998,"(R05.1) Acute cough, (Z68.28) Body mass index (BMI) 28.0-28.9, adult"
+1188,10/31/1959,"(H81.10) Benign paroxysmal vertigo, unspecified ear, (E78.5) Hyperlipidemia, unspecified"
+1189,8/7/1970,"(D48.61) Neoplasm of uncertain behavior of right breast, (N95.1) Menopausal and female climacteric states"
+1190,2/6/1997,(R59.0) Localized enlarged lymph nodes
+1191,3/9/1985,"(R03.0) Elevated blood-pressure reading, w/o diagnosis of htn, (R07.89) Other chest pain"
+1192,1/15/1971,"(S13.4XXA) Sprain of ligaments of cervical spine, initial encounter, (G44.209) Tension-type headache, unspecified, not intractable"
+1193,10/7/1969,(Z78.0) Asymptomatic menopausal state
+1194,8/17/1973,0
+1195,7/22/2002,0
+1196,12/29/1967,"(I25.119) Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris, (E78.2) Mixed hyperlipidemia, (K76.0) Fatty (change of) liver, not elsewhere classified"
+1197,6/8/1973,"(J45.909) Unspecified asthma, uncomplicated, (R60.9) Edema, unspecified, (E11.311) Type 2 diabetes w unsp diabetic retinopathy w macular edema"
+1198,1/29/1979,"(G43.909) Migraine, unspecified, not intractable, without status migrainosus"
+1199,9/26/1970,"(E78.5) Hyperlipidemia, unspecified, (E13.9) Other specified diabetes mellitus without complications"
+1200,5/14/1989,0
+1201,3/4/1962,"(M17.12) Unilateral primary osteoarthritis, left knee, (K80.20) Calculus of gallbladder without cholecystitis without obstruction, (R00.2) Palpitations"
+1202,6/17/1944,"(H40.10X0) Unspecified open-angle glaucoma, stage unspecified, (N81.10) Cystocele, unspecified, (E78.1) Pure hyperglyceridemia, (E03.8) Other specified hypothyroidism"
+1203,10/9/1979,"(R22.9) Localized swelling, mass and lump, unspecified"
+1204,10/22/1991,"(Z87.828) Personal history of other (healed) physical injury and trauma, (S43.421A) Sprain of right rotator cuff capsule, initial encounter"
+1205,6/21/2004,"(H11.32) Conjunctival hemorrhage, left eye, (E28.2) Polycystic ovarian syndrome"
+1206,8/26/1948,0
+1207,3/28/1963,"(I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (L20.9) Atopic dermatitis, unspecified, (E11.9) Type 2 diabetes mellitus without complications, (K21.9) Gastro-esophageal reflux disease without esophagitis"
+1208,1/1/1990,(J45.901) Unspecified asthma with (acute) exacerbation
+1209,7/25/1958,0
+1210,9/9/1990,"(S83.222A) Prph tear of medial meniscus, current injury, l knee, init, (E78.49) Other hyperlipidemia, (J01.40) Acute pansinusitis, unspecified"
+1211,9/1/1993,"(R51.9) Headache, unspecifie"
+1212,4/15/1933,"(H35.30) Unspecified macular degeneration, (K11.8) Other diseases of salivary glands, (E11.9) Type 2 diabetes mellitus without complications"
+1213,10/23/1992,"(H60.92) Unspecified otitis externa, left ear"
+1214,11/4/1973,"(K21.9) Gastro-esophageal reflux disease without esophagitis, (E78.2) Mixed hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications, (M79.673) Pain in unspecified foot, (R19.5) Other fecal abnormalities"
+1215,12/30/1977,"(F41.1) Generalized anxiety disorder, (K59.00) Constipation, unspecified, (R82.90) Unspecified abnormal findings in urine, (L50.1) Idiopathic urticaria, (M79.1) Myalgia"
+1216,10/8/1996,0
+1217,7/12/1962,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (M54.5) Low back pain, (M54.6) Pain in thoracic spine"
+1218,9/24/1964,"(K64.8) Other hemorrhoids, (E11.9) Type 2 diabetes mellitus without complications, (K80.80) Other cholelithiasis without obstruction, (J45.998) Other asthma"
+1219,12/1/1977,0
+1220,5/18/1963,"(I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (I48.0) Paroxysmal atrial fibrillation, (R73.03) Prediabetes, (E66.9) Obesity, unspecified"
+1221,11/28/1959,"(I10) Essential (primary) hypertension, (I67.1) Cerebral aneurysm, nonruptured, (I48.91) Unspecified atrial fibrillation, (G43.909) Migraine, unspecified, not intractable, without status migrainosus"
+1222,1/29/1960,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (G47.62) Sleep related leg cramps, (E78.5) Hyperlipidemia, unspecified"
+1223,2/21/1994,0
+1224,2/15/1958,"(E11.8) Type 2 diabetes mellitus with unspecified complications, (E78.5) Hyperlipidemia, unspecified"
+1225,11/27/1964,"(E66.3) Overweight, (H26.9) Unspecified cataract, (E78.1) Pure hyperglyceridemia, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (M1A.9XX0) Chronic gout, unspecified, without tophus (tophi)"
+1226,1/2/1973,"(R10.33) Periumbilical pain, (R07.9) Chest pain, unspecified, (K43.9) Ventral hernia without obstruction or gangrene"
+1227,5/8/1998,"(B69.0) Cysticercosis of central nervous system, (R56.9) Unspecified convulsions"
+1228,6/24/1978,"(L29.9) Pruritus, unspecified"
+1229,10/7/1968,0
+1230,12/4/1944,0
+1231,12/14/1990,"(E66.3) Overweight, (L30.1) Dyshidrosis [pompholyx], (K21.9) Gastro-esophageal reflux disease without esophagitis, (E78.2) Mixed hyperlipidemia"
+1232,11/11/1951,"(L40.9) Psoriasis, unspecified"
+1233,8/27/1977,(J45.901) Unspecified asthma with (acute) exacerbation
+1234,1/23/1960,"(E08.9) Diabetes mellitus due to underlying condition without complications, (E78.0) Pure hypercholesterolemia, (R00.0) Tachycardia, unspecified, (I10) Essential (primary) hypertension"
+1235,7/24/1954,"(E11.42) Type 2 diabetes mellitus with diabetic polyneuropathy, (E11.40) Type 2 diabetes mellitus with diabetic neuropathy, unsp, (I10) Essential (primary) hypertension"
+1236,11/4/1970,0
+1237,5/25/2000,"(Z00.00) Encntr for general adult medical exam w/o abnormal findings, (Z00.00) Encntr for general adult medical exam w/o abnormal findings"
+1238,1/29/1986,"(I10) Essential (primary) hypertension, (G47.00) Insomnia, unspecified"
+1239,6/6/1931,0
+1240,11/27/1980,0
+1241,8/4/1981,0
+1242,3/5/1981,"(N39.0) Urinary tract infection, site not specified, (G44.209) Tension-type headache, unspecified, not intractable"
+1243,9/15/1964,"(K30) Functional dyspepsia, (Z83.3) Family history of diabetes mellitus"
+1244,11/27/1964,(B96.81) Helicobacter pylori as the cause of diseases classd elswhr
+1245,11/20/1995,(L20.89) Other atopic dermatitis
+1246,11/8/1956,"(R63.4) Abnormal weight loss, (M54.5) Low back pain, (M47.816) Spondylosis without myelopathy or radiculopathy, lumbar region, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+1247,4/12/1961,"(E11.9) Type 2 diabetes mellitus without complications, (E78.1) Pure hyperglyceridemia, (M1A.9XX1) Chronic gout, unspecified, with tophus (tophi), (I10) Essential (primary) hypertension, (M26.62) Arthralgia of temporomandibular joint"
+1248,7/15/1949,"(G81.91) Hemiplegia, unspecified affecting right dominant side, (I10) Essential (primary) hypertension"
+1249,8/5/1962,"(R73.9) Hyperglycemia, unspecified, (M26.60) Temporomandibular joint disorder, unspecified, (E78.5) Hyperlipidemia, unspecified, (M54.50) Low back pain, unspecified, (I10) Essential (primary) hypertension"
+1250,10/27/1982,"(M54.5) Low back pain, (H81.10) Benign paroxysmal vertigo, unspecified ear"
+1251,9/11/1948,"(F03.90) Unspecified dementia without behavioral disturbance, (M54.5) Low back pain, (I10) Essential (primary) hypertension"
+1252,6/14/1991,"(N42.9) Disorder of prostate, unspecified, (Z68.30) Body mass index (BMI) 30.0-30.9, adult, (H65.91) Unspecified nonsuppurative otitis media, right ear"
+1253,11/12/1969,"(I79.0) Aneurysm of aorta in diseases classified elsewhere, (R10.0) Acute abdomen, (K76.0) Fatty (change of) liver, not elsewhere classified, (I71.62) Paravisceral aneurysm of the abd aorta, without rupture"
+1254,3/22/1955,"(F41.9) Anxiety disorder, unspecified, (E07.9) Disorder of thyroid, unspecified"
+1255,11/9/1997,0
+1256,10/28/1962,0
+1257,9/22/1970,"(G56.03) Carpal tunnel syndrome, bilateral upper limbs, (M54.12) Radiculopathy, cervical region"
+1258,9/6/1991,"(F41.9) Anxiety disorder, unspecified, (R10.2) Pelvic and perineal pain"
+1259,7/6/1971,"(R10.816) Epigastric abdominal tenderness, (B37.32) Chronic candidiasis of vulva and vagina, (K59.00) Constipation, unspecified, (E78.49) Other hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications, (R53.1) Weakness"
+1260,2/14/1995,0
+1261,2/7/1962,0
+1262,11/10/1973,0
+1263,5/30/1975,0
+1264,1/25/2004,(L20.82) Flexural eczema
+1265,2/5/1957,"(E66.9) Obesity, unspecified, (I10) Essential (primary) hypertension, (M79.606) Pain in leg, unspecified, (M25.461) Effusion, right knee, (R60.9) Edema, unspecified"
+1266,5/8/1966,(R31.0) Gross hematuria
+1267,9/22/1965,"(I10) Essential (primary) hypertension, (R10.13) Epigastric pain, (M54.50) Low back pain, unspecified, (H69.83) Other specified disorders of Eustachian tube, bilateral"
+1268,1/17/1958,"(E78.5) Hyperlipidemia, unspecified"
+1269,9/24/1993,"(M54.59) Other low back pain, (M54.32) Sciatica, left side"
+1270,1/1/1952,"(R00.0) Tachycardia, unspecified"
+1271,1/27/1962,"(R52) Pain, unspecified, (I10) Essential (primary) hypertension, (R63.4) Abnormal weight loss, (E11.9) Type 2 diabetes mellitus without complications, (M79.603) Pain in arm, unspecified"
+1272,12/30/1964,"(R73.9) Hyperglycemia, unspecified, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified"
+1273,7/29/1985,"(K29.70) Gastritis, unspecified, without bleeding, (Z68.31) Body mass index (BMI) 31.0-31.9, adult, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr"
+1274,5/1/1974,0
+1275,1/13/1937,"(I10) Essential (primary) hypertension, (M17.0) Bilateral primary osteoarthritis of knee, (I25.10) Athscl heart disease of native coronary artery w/o ang pctrs"
+1276,2/29/1972,"(L02.811) abscess of head [any part, except face], (E11.8) Type 2 diabetes mellitus with unspecified complications"
+1277,11/25/1973,"(E11.9) Type 2 diabetes mellitus without complications, (R53.1) Weakness, (I10) Essential (primary) hypertension"
+1278,2/29/1972,(Z00.00) Encounter for general adult medical examination without abnormal findings
+1279,11/29/1982,"(R10.30) Lower abdominal pain, unspecified, (Z13.31) Encounter for screening for depression, (R06.02) Shortness of breath, (N93.8) Other specified abnormal uterine and vaginal bleeding"
+1280,8/13/1971,"(R80.9) Proteinuria, unspecified, (K62.5) Hemorrhage of anus and rectum, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications"
+1281,11/15/1993,0
+1282,7/5/1968,0
+1283,1/21/1972,"(M05.9) Rheumatoid arthritis with rheumatoid factor, unspecified"
+1284,5/23/1952,"(I10) Essential (primary) hypertension, (K64.9) Unspecified hemorrhoids, (I87.2) Venous insufficiency (chronic) (peripheral), (E11.9) Type 2 diabetes mellitus without complications, (N40.1) Benign prostatic hyperplasia with lower urinary tract symptoms"
+1285,6/9/1970,0
+1286,5/8/1976,"(K81.0) Acute cholecystitis, (E04.2) Nontoxic multinodular goiter"
+1287,2/15/1989,"(E11.40) Type 2 diabetes mellitus with diabetic neuropathy, unsp"
+1288,6/26/1973,"(L03.115) Cellulitis of right lower limb, (R18.8) Other ascites, (R06.02) Shortness of breath, (K74.60) Unspecified cirrhosis of liver"
+1289,11/15/1954,(I10) Essential (primary) hypertension
+1290,9/12/1993,"(D72.1) Eosinophilia, (L70.9) Acne, unspecified"
+1291,1/30/1942,(N19) Unspecified kidney failure
+1292,9/22/1951,0
+1293,6/4/1968,"(E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (R51.9) Headache, unspecified, (M10.9) Gout, unspecified"
+1294,10/30/1973,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (E78.49) Other hyperlipidemia, (J45.20) Mild intermittent asthma, uncomplicated"
+1295,8/15/1997,"(H81.10) Benign paroxysmal vertigo, unspecified ear"
+1296,10/16/1993,0
+1297,3/27/1963,0
+1298,12/1/1984,"(F79) Unspecified intellectual disabilities, (R05) Cough"
+1299,9/11/1953,"(K59.09) Other constipation, (I11.9) Hypertensive heart disease without heart failure, (R63.4) Abnormal weight loss, (R10.9) Unspecified abdominal pain, (N49.2) Inflammatory disorders of scrotum"
+1300,1/1/1993,"(L42) Pityriasis rosea, (G44.209) Tension-type headache, unspecified, not intractable, (R21) Rash and other nonspecific skin eruption"
+1301,11/21/1943,"(I69.952) Hemiplga fol unsp cerebvasc disease aff left dominant side, (E78.49) Other hyperlipidemia, (I63.9) Cerebral infarction, unspecified, (H53.132) Sudden visual loss, left eye, (E11.9) Type 2 diabetes mellitus without complications"
+1302,4/27/1978,(I10) Essential (primary) hypertension
+1303,4/9/1986,"(R80.9) Proteinuria, unspecified, (I10) Essential (primary) hypertension, (Z83.3) Family history of diabetes mellitus, (R73.01) Impaired fasting glucose"
+1304,4/10/1986,0
+1305,7/21/1960,(K62.5) Hemorrhage of anus and rectum
+1306,11/4/1957,(K21.9) Gastro-esophageal reflux disease without esophagitis
+1307,1/9/1987,0
+1308,4/3/2000,"(E28.2) Polycystic ovarian syndrome, (N83.201) Unspecified ovarian cyst, right side"
+1309,3/18/1969,"(E66.9) Obesity, unspecified"
+1310,7/16/1953,"(I10) Essential (primary) hypertension, (R21) Rash and other nonspecific skin eruption"
+1311,8/24/1983,"(J45.901) Unspecified asthma with (acute) exacerbation, (J45.20) Mild intermittent asthma, uncomplicated"
+1312,6/6/1990,"(E66.09) Other obesity due to excess calories, (F41.9) Anxiety disorder, unspecified"
+1313,2/23/1974,0
+1314,4/26/1970,"(I10) Essential (primary) hypertension, (E05.90) Thyrotoxicosis, unsp without thyrotoxic crisis or storm"
+1315,2/18/1983,"(E66.9) Obesity, unspecified, (K64.9) Unspecified hemorrhoids, (D72.829) Elevated white blood cell count, unspecified"
+1316,8/20/1999,"(H66.011) Acute suppr otitis media w spon rupt ear drum, right ear"
+1317,11/29/1957,0
+1318,7/6/1940,"(I63.9) Cerebral infarction, unspecified, (I50.9) Heart failure, unspecified"
+1319,5/28/1975,"(K57.92) Dvtrcli of intest, part unsp, w/o perf or abscess w/o bleed"
+1320,5/26/1998,0
+1321,8/31/1959,(K29.50) Unspecified chronic gastritis without bleeding
+1322,4/6/1977,"(V09.3XXD) Pedestrian injured in unsp traffic accident, subs encntr, (Z47.89) Encounter for other orthopedic aftercare, (R76.11) Nonspecific reaction to skin test w/o active tuberculosis, (S82.442Displ spiral fx shaft of l fibula, init for opn fx type I/2"
+1323,8/31/1960,0
+1324,1/12/1994,"(M67.431) Ganglion, right wrist, (M77.9) Enthesopathy, unspecified"
+1325,12/20/1952,"(E78.2) Mixed hyperlipidemia, (R73.01) Impaired fasting glucose, (I10) Essential (primary) hypertension"
+1326,12/23/1987,"(I86.1) Scrotal varices, (Z68.30) Body mass index (BMI) 30.0-30.9, adult"
+1327,1/7/1983,0
+1328,12/17/1966,0
+1329,7/2/1955,"(E03.9) Hypothyroidism, unspecified, (M25.511) Pain in right shoulder, (M17.11) Unilateral primary osteoarthritis, right knee"
+1330,10/20/1966,"(J45.20) Mild intermittent asthma, uncomplicated, (F32.A) Depression, unspecified"
+1331,5/7/1967,(R07.89) Other chest pain
+1332,12/17/1963,"(E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (I70.219) Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity"
+1333,5/27/1982,"(E03.9) Hypothyroidism, unspecified, (N52.1) Erectile dysfunction due to diseases classified elsewhere"
+1334,12/29/1960,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (A52.8) Late syphilis, latent"
+1335,4/16/1956,(R04.2) Hemoptysis
+1336,9/28/1983,0
+1337,11/7/1946,"(Z00.00) Encntr for general adult medical exam w/o abnormal findings, (R39.9) Unsp symptoms and signs involving the genitourinary system, (M17.0) Bilateral primary osteoarthritis of knee, (N40.1) Benign prostatic hyperplasia with lower urinary tract symp"
+1338,1/5/1993,0
+1339,7/21/1979,0
+1340,1/1/1961,"(I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications"
+1341,7/4/1990,"(S76.012A) Strain of muscle, fascia and tendon of left hip, init encntr, (J02.9) Acute pharyngitis, unspecified, (E78.49) Other hyperlipidemia, (E11.9) Type 2 diabetes mellitus without complications"
+1342,4/7/1975,"(K64.9) Unspecified hemorrhoids, (E78.2) Mixed hyperlipidemia, (M10.9) Gout, unspecified, (R73.03) Prediabetes"
+1343,6/8/1979,"(D50.9) Iron deficiency anemia, unspecified, (E66.09) Other obesity due to excess calories, (E11.9) Type 2 diabetes mellitus without complications, (E78.0) Pure hypercholesterolemia, (M1A.9XX0) Chronic gout, unspecified, without tophus (tophi)"
+1344,2/14/1974,"(R10.9) Unspecified abdominal pain, (Z85.820) Personal history of malignant melanoma of skin, (I10) Essential (primary) hypertension"
+1345,5/28/1979,0
+1346,5/4/1994,0
+1347,1/21/1970,"(R10.11) Right upper quadrant pain, (G44.221) Chronic tension-type headache, intractable, (L30.9) Dermatitis, unspecified, (E78.5) Hyperlipidemia, unspecified, (R73.03) Prediabetes, (K76.0) Fatty (change of) liver, not elsewhere classified"
+1348,5/8/1951,0
+1349,1/11/1961,"(F41.9) Anxiety disorder, unspecified, (F31.9) Bipolar disorder, unspecified, (L29.9) Pruritus, unspecified"
+1350,4/14/1959,0
+1351,9/23/1959,"(M18.0) Bilateral primary osteoarthritis of first carpometacarpal joints, (M19.049) Primary osteoarthritis, unspecified hand"
+1352,10/1/1963,"(E78.49) Other hyperlipidemia, (I10) Essential (primary) hypertension, (E11.9) Type 2 diabetes mellitus without complications, (M62.81) Muscle weakness (generalized)"
+1353,9/20/1965,(C50.911) Malignant neoplasm of unspecified site of right female breast
+1354,10/31/1954,(E11.8) Type 2 diabetes mellitus with unspecified complications
+1355,8/7/1950,"(J18.9) Pneumonia, unspecified organism, (E11.9) Type 2 diabetes mellitus without complications, (R76.11) Nonspecific reaction to skin test w/o active tuberculosis, (I10) Essential (primary) hypertension"
+1356,10/7/1969,"(J45.901) Unspecified asthma with (acute) exacerbation, (G44.1) Vascular headache, not elsewhere classified, (I10) Essential (primary) hypertension"
+1357,1/29/1977,"(E78.5) Hyperlipidemia, unspecified, (I10) Essential (primary) hypertension, (N63.10) Unspecified lump in the right breast, unspecified quadrant, (I10) Essential (primary) hypertension, (R31.2) Other microscopic hematuria"
+1358,7/12/1968,0
+1359,6/19/1950,0
+1360,6/1/1979,"(R53.81) Other malaise, (G51.0) Bell's palsy, (U09.9) Post COVID-19 condition, unspecified, (Z87.891) Personal history of nicotine dependence, (B18.1) Chronic viral hepatitis B without delta-agent, (K62.9) Disease of anus and rectum, unspecified"
+1361,7/20/1939,"(R33.9) Retention of urine, unspecified, (M1A.9XX0) Chronic gout, unspecified, without tophus (tophi), (D07.5) Carcinoma in situ of prostate"
+1362,8/18/1965,"(E11.9) Type 2 diabetes mellitus without complications, (I25.2) Old myocardial infarction, (E78.5) Hyperlipidemia, unspecified"
+1363,9/4/1973,(B35.1) Tinea unguium
+1364,2/16/1960,0
+1365,12/21/2004,"(B36.0) Pityriasis versicolor, (L81.0) Postinflammatory hyperpigmentation"
+1366,5/5/1986,"(R13.13) Dysphagia, pharyngeal phase, (R07.82) Intercostal pain"
+1367,9/30/1960,"(M25.511) Pain in right shoulder, (I10) Essential (primary) hypertension, (M25.522) Pain in left elbow, (R73.9) Hyperglycemia, unspecified, (H72.93) Unspecified perforation of tympanic membrane, bilateral, (H66.91) Otitis media, unspecified, right ear"
+1368,4/17/1975,"(B96.81) Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere, (R53.82) Chronic fatigue, unspecified"
+1369,9/12/1967,0
+1370,7/18/1972,"(M65.812) Other synovitis and tenosynovitis, left shoulder, (E78.1) Pure hyperglyceridemia, (L02.91) Cutaneous abscess, unspecified, (H60.12) Cellulitis of left external ear"
+1371,12/14/1989,"(E78.5) Hyperlipidemia, unspecified"
+1372,12/13/1942,"(J30.9) Allergic rhinitis, unspecified, (I10) Essential (primary) hypertension, (Z96.60) Presence of unspecified orthopedic joint implant"
+1373,7/29/1946,"(R73.02) Impaired glucose tolerance (oral), (M62.831) Muscle spasm of calf, (H61.20) Impacted cerumen, unspecified ear, (I10) Essential (primary) hypertension, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+1374,7/12/1971,(B35.1) Tinea unguium
+1375,9/13/1963,"(E11.9) Type 2 diabetes mellitus without complications, (J45.40) Moderate persistent asthma, uncomplicated, (G90.09) Other idiopathic peripheral autonomic neuropathy, (E78.00) Pure hypercholesterolemia, unspecified, (I10) Essential (primary) hypertension"
+1376,2/20/1957,0
+1377,6/29/1964,"(M16.0) Bilateral primary osteoarthritis of hip, (L98.491) Non-prs chronic ulcer skin/ sites limited to brkdwn skin"
+1378,2/15/1971,0
+1379,4/20/1978,0
+1380,10/14/1991,"(E03.9) Hypothyroidism, unspecified"
+1381,1/14/1978,"(Z68.33) Body mass index (BMI) 33.0-33.9, adult"
+1382,12/4/1947,"(M54.5) Low back pain, (B07.9) Viral wart, unspecified, (I10) Essential (primary) hypertension, (L71.9) Rosacea, unspecified, (M25.561) Pain in right knee"
+1383,2/24/1963,"(I48.19) Other persistent atrial fibrillation, (I10) Essential (primary) hypertension, (I69.80) Unspecified sequelae of other cerebrovascular disease"
+1384,1/20/1980,"(D17.0) Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck"
+1385,11/28/1969,"(E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (E78.5) Hyperlipidemia, unspecified, (H54.50) Low vision, one eye, unspecified eye"
+1386,1/21/1981,"(G56.01) Carpal tunnel syndrome, right upper limb, (G43.909) Migraine, unspecified, not intractable, without status migrainosus"
+1387,12/30/1949,"(M19.049) Primary osteoarthritis, unspecified hand, (E11.9) Type 2 diabetes mellitus without complications, (I10) Essential (primary) hypertension, (F17.210) Nicotine dependence, cigarettes, uncomplicated, (E78.49) Other hyperlipidemia"
+1388,8/31/1981,0
+1389,7/12/1970,0
+1390,6/26/1978,"(I10) Essential (primary) hypertension, (L70.0) Acne vulgaris, (R00.0) Tachycardia, unspecified, (L91.0) Hypertrophic scar"
+1391,3/9/1980,"(J45.909) Unspecified asthma, uncomplicated, (K52.9) Noninfective gastroenteritis and colitis, unspecified, (J30.2) Other seasonal allergic rhinitis"
+1392,5/2/1990,"(R19.7) Diarrhea, unspecified, (E08.00) Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC)"
+1393,12/4/1989,"(L65.9) Nonscarring hair loss, unspecified, (E66.01) Morbid (severe) oboverweigue to excess calories"
+1394,4/15/2000,0
+1395,8/7/1973,"(I10) Essential (primary) hypertension, (E78.2) Mixed hyperlipidemia, (R73.03) Prediabetes, (M51.16) Intervertebral disc disorders with radiculopathy, lumbar region"
+1396,5/9/1990,"(G43.909) Migraine, unspecified, not intractable, without status migrainosus, (J45.909) Unspecified asthma, uncomplicated"
+1397,6/1/1967,"(G57.13) Meralgia paresthetica, bilateral lower limbs, (R73.09) Other abnormal glucose, (G90.09) Other idiopathic peripheral autonomic neuropathy"
+1398,9/23/1965,(I10) Essential (primary) hypertension
+1399,12/11/1993,(R20.9) Unspecified disturbances of skin sensation
+1400,4/12/1978,0
+1401,5/9/1966,"(N52.8) Other male erectile dysfunction, (M54.50) Low back pain, unspecified"
+1402,11/3/1995,0
+1403,8/8/1987,0
+1404,4/12/1995,0
+1405,2/16/1985,"(S01.311D) Laceration without foreign body of right ear, subs encntr"
+1406,9/14/1966,(E11.9) Type 2 diabetes mellitus without complications
+1407,9/27/1992,"(Z87.440) Personal history of urinary (tract) infections, (K60.2) Anal fissure, unspecified"
+1408,11/17/1961,(K76.82) Hepatic encephalopathy
+1409,10/22/1990,"(E66.9) Obesity, unspecified, (D29.20) Benign neoplasm of unspecified testis"
+1410,6/5/1960,(E13.8) Oth diabetes mellitus with unspecified complications
+1411,5/7/1981,"(F32.3) Major depressv disord, single epsd, severe w psych features, (E11.9) Type 2 diabetes mellitus without complications, (E10.638) Type 1 diabetes mellitus with other oral complications"
+1412,8/1/1989,0
+1413,9/12/1979,0
+1414,5/8/1966,"(E78.49) Other hyperlipidemia, (R35.1) Nocturia, (I10) Essential (primary) hypertension, (R71.8) Other abnormality of red blood cells, (R73.03) Prediabetes, (K59.00) Constipation, unspecified, (H11.002) Unspecified pterygium of left eye"
+1415,5/12/1963,0
+1416,10/29/1982,0
+1417,1/1/1946,"(E11.21) Type 2 diabetes mellitus with diabetic nephropathy, (I10) Essential (primary) hypertension, (M77.11) Lateral epicondylitis, right elbow, (E78.5) Hyperlipidemia, unspecified, (E78.5) Hyperlipidemia, unspecified"
+1418,11/18/1984,"(R30.0) Dysuria, (K51.00) Ulcerative (chronic) pancolitis without complications"
+1419,8/4/1980,"(K05.00) Acute gingivitis, plaque induced, (K21.00) Gastro-esophageal reflux dis with esophagitis, without bleed, (N30.80) Other cystitis without hematuria"
+1420,9/14/1938,0
+1421,11/29/1980,"(L30.8) Other specified dermatitis, (E78.4) Other hyperlipidemia, (D64.9) Anemia, unspecified, (R73.9) Hyperglycemia, unspecified"
+1422,3/2/1973,"(M65.311) Trigger thumb, right thumb, (E11.9) Type 2 diabetes mellitus without complications, (E78.49) Other hyperlipidemia, (I10) Essential (primary) hypertension"
+1423,1/25/1973,"(E78.0) Pure hypercholesterolemia, (E03.9) Hypothyroidism, unspecified"
+1424,2/24/1991,"(R31.2) Other microscopic hematuria, (I10) Essential (primary) hypertension, (H00.022) Hordeolum internum right lower eyelid"
+1425,1/1/1954,0
+1426,10/25/1955,0
+1427,11/16/1979,(Z77.120) Contact with and (suspected) exposure to mold (toxic)
+1428,2/15/1964,"(H91.93) Unspecified hearing loss, bilateral, (E78.5) Hyperlipidemia, unspecified, (R73.03) Prediabetes, (B37.9) Candidiasis, unspecified"
+1429,6/19/1976,0
+1430,7/15/1991,"(M79.10) Myalgia, unspecified site, (F41.1) Generalized anxiety disorder, (D50.9) Iron deficiency anemia, unspecified"
+1431,9/20/1992,0
+1432,10/12/1982,"(I10) Essential (primary) hypertension, (E66.2) Morbid (severe) obesity with alveolar hypoventilation, (Z98.84) Bariatric surgery status, (I49.9) Cardiac arrhythmia, unspecified"
+1433,6/18/1976,"(N30.90) Cystitis, unspecified without hematuria"
+1434,7/1/1975,"(E78.49) Other hyperlipidemia, (R73.09) Other abnormal glucose, (E11.9) Type 2 diabetes mellitus without complications"
+1435,9/22/2002,"(L21.9) Seborrheic dermatitis, unspecified"
+1436,9/15/1965,"(K58.2) Mixed irritable bowel syndrome, (E78.5) Hyperlipidemia, unspecified, (N30.90) Cystitis, unspecified without hematuria, (K21.9) Gastro-esophageal reflux disease without esophagitis, (R73.9) Hyperglycemia, unspecified"
+1437,6/13/1971,"(E55.9) Vitamin D deficiency, unspecified"
+1438,3/10/1991,0
+1439,9/12/1966,0
+1440,1/13/1930,0
+1441,4/8/1959,"(R25.2) Cramp and spasm, (G89.29) Other chronic pain, (B96.81) Helicobacter pylori as the cause of diseases classd elswhr, (E78.5) Hyperlipidemia, unspecified, (E07.9) Disorder of thyroid, unspecified"
+1442,3/21/1949,0
+1443,1/8/1973,0
+1444,9/13/1980,0
+1445,11/28/1979,"(E66.9) Obesity, unspecified, (R73.03) Prediabetes, (M10.9) Gout, unspecified, (I10) Essential (primary) hypertension, (R73.01) Impaired fasting glucose, (R79.89) Other specified abnormal findings of blood chemistry"
+1446,6/12/2003,"(L60.0) Ingrowing nail, (Z68.33) Body mass index (BMI) 33.0-33.9, adult"
+1447,7/16/1956,0
+1448,12/29/1995,"(G43.909) Migraine, unspecified, not intractable, without status migrainosus"
+1449,9/22/1973,0
+1450,7/19/1986,"(R53.81) Other malaise, (E05.90) Thyrotoxicosis, unsp without thyrotoxic crisis or storm"
+1451,1/12/1973,"(B18.1) Chronic viral hepatitis B without delta-agent, (L25.9) Unspecified contact dermatitis, unspecified cause, (M54.50) Low back pain, unspecified, (K29.50) Unspecified chronic gastritis without bleeding"
+1452,3/22/2004,"(J45.909) Unspecified asthma, uncomplicated"
+1453,4/27/1950,"(I10) Essential (primary) hypertension, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+1454,7/18/1960,"(R73.03) Prediabetes, (E78.2) Mixed hyperlipidemia"
+1455,5/17/1995,0
+1456,7/22/1995,"(R35.0) Frequency of micturition, (N93.8) Other specified abnormal uterine and vaginal bleeding"
+1457,10/12/1968,0
+1458,7/12/1980,"(G43.909) Migraine, unsp, not intractable, without status migrainosus, (R00.2) Palpitations, (R53.83) Other fatigue, (K59.00) Constipation, unspecified"
+1459,4/14/1975,"(E66.3) Overweight, (F84.0) Autistic disorder, (G40.89) Other seizures, (R94.5) Abnormal results of liver function studies"
+1460,12/7/1966,"(K40.90) Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent, (B07.0) Plantar wart"
+1461,7/4/1998,"(G43.909) Migraine, unspecified, not intractable, without status migrainosus"
+1462,1/5/1994,"(B36.9) Superficial mycosis, unspecified, (L20.9) Atopic dermatitis, unspecified"
+1463,6/19/1957,"(K60.0) Acute anal fissure, (Z00.8) Encounter for other general examination, (H91.91) Unspecified hearing loss, right ear, (K59.00) Constipation, unspecified, (E78.2) Mixed hyperlipidemia"
+1464,11/29/1966,"(I10) Essential (primary) hypertension, (Z00.00) Encounter for general adult medical examination without abnormal findings, (E11.29) Type 2 diabetes mellitus with other diabetic kidney complication"
+1465,12/28/1984,0
+1466,5/20/1962,0
+1467,12/18/1973,"(R32) Unspecified urinary incontinence, (D50.9) Iron deficiency anemia, unspecified, (M54.50) Low back pain, unspecified"
+1468,3/2/1946,(E11.9) Type 2 diabetes mellitus without complications
+1469,11/6/1957,"(E11.9) Type 2 diabetes mellitus without complications, (E78.5) Hyperlipidemia, unspecified, (J30.2) Other seasonal allergic rhinitis"
+1470,7/7/1994,"(E66.3) Overweight, (D18.01) Hemangioma of skin and subcutaneous tissue"
+1471,7/18/1978,"(Z68.28) Body mass index (BMI) 28.0-28.9, adult, (S60.948A) Unspecified superficial injury of other finger, init encntr, (S60.945A) Unsp superficial injury of left ring finger, init encntr"
+1472,8/31/1943,"(E11.9) Type 2 diabetes mellitus without complications, (D55.9) Anemia due to enzyme disorder, unspecified, (C91.51) Adult T-cell lymphoma/leukemia (HTLV-1-assoc), in remission"
+1473,6/6/1973,"(N92.6) Irregular menstruation, unspecified, (D64.9) Anemia, unspecified, (Z00.00) Encntr for general adult medical exam w/o abnormal findings"
+1474,11/20/1988,"(R10.9) Unspecified abdominal pain, (K59.00) Constipation, unspecified"
+1475,8/27/1990,"(Z68.28) Body mass index (BMI) 28.0-28.9, adult"
+1476,1/10/1982,(R10.2) Pelc and perineal pain
+1477,6/22/1985,"(G43.009) Migraine w/o aura, not intractable, w/o status migrainosus"
+1478,5/7/1982,"(E66.9) Obesity, unspecified, (L72.0) Epidermal cyst, (Z83.3) Family history of diabetes mellitus"
+1479,2/19/1955,"(H04.129) Dry eye syndrome of unspecified lacrimal gland, (H26.9) Unspecified cataract, (E78.49) Other hyperlipidemia, (E21.5) Disorder of parathyroid gland, unspecified"
+1480,5/16/1997,(E80.6) Other disorders of bilirubin metabolism
+1481,7/24/1996,0
+1482,8/10/1966,0
+1483,10/15/1986,"(R10.9) Unspecified abdominal pain, (K59.00) Constipation, unspecified, (Z00.00) Encounter for general adult medical examination without abnormal findings"
+1484,12/1/1979,"(E78.5) Hyperlipidemia, unspecified"
+1485,6/30/1971,"(M77.12) Lateral epicondylitis, left elbow, (M54.50) Low back pain, unspecified, (M23.306) Other meniscus derangements, unspecified meniscus, right knee"
+1486,2/14/1979,"(M89.9) Disorder of bone, unspecified"
+1487,3/1/1967,"(E78.49) Other hyperlipidemia, (H53.19) Other subjective visual disturbances"
+1488,5/2/1978,0
+1489,1/11/1996,0
+1490,7/25/1943,0
+1491,2/6/1990,"(D50.9) Iron deficiency anemia, unspecified, (F31.30) Bipolar disord, crnt epsd depress, mild or mod severt, unsp, (G56.01) Carpal tunnel syndrome, right upper limb, (T78.40XD) Allergy, unspecified, subsequent encounter"
+1492,9/4/1994,"(F41.0) Panic disorder [episodic paroxysmal anxiety], (R07.0) Pain in throat, (F32.81) Premenstrual dysphoric disorder"
+1493,8/23/1965,"(G57.93) Unspecified mononeuropathy of bilateral lower limbs, (M54.5) Low back pain, (L40.9) Psoriasis, unspecified"
+1494,5/14/1983,"(G43.009) Migraine w/o aura, not intractable, w/o status migrainosus"
+1495,8/8/1975,"(R74.8) Abnormal levels of other serum enzymes, (K75.81) Nonalcoholic steatohepatitis (NASH), (R10.9) Unspecified abdominal pain, (R31.9) Hematuria, unspecified, (E78.5) Hyperlipidemia, unspecified"
+1496,11/2/1964,"(T16.1XXA) Foreign body in right ear, initial encounter, (J30.9) Allergic rhinitis, unspecified, (R53.82) Chronic fatigue, unspecified"
+1497,3/16/1994,0
+1498,4/22/1995,0
+1499,10/12/1989,"(M51.27) Other intervertebral disc displacement, lumbosacral region"
+1500,5/28/1971,"(E11.65) Type 2 diabetes mellitus with hyperglycemia, (B35.3) Tinea pedis, (R01.1) Cardiac murmur, unspecified, (R80.8) Other proteinuria, (Z59.0) Homelessness, (R79.89) Other specified abnormal findings of blood chemistry"
