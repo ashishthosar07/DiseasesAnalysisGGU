@@ -12,21 +12,27 @@ st.set_page_config(page_title="Patient Data Analysis Dashboard", layout="wide")
 st.title("Patient Data Analysis Dashboard")
 
 st.header("Age Filters")
-min_age, max_age = st.slider("Select Age Range", 0, 100, (10, 50), step=10)
+min_age, max_age = st.slider("Select Age Range", 0, 105, (10, 50), step=10)
 
 # Data loading and preprocessing
 @st.cache_data
 def load_and_process_data():
     try:
-        df = pd.read_csv('Patient Data Updated.csv', skipinitialspace=True)
-        df = df[df['ICD_code'] != '0']
+        df = pd.read_csv('Patient Data Updated.csv')
+        totalPatients = df
+        #df = df[df['ICD_code'] != '0']
         df['birthdate'] = pd.to_datetime(df['birthdate'], errors='coerce')
         now = datetime.now()
         df['age'] = df['birthdate'].apply(
             lambda x: now.year - x.year - ((now.month, now.day) < (x.month, x.day)) 
             if pd.notna(x) else np.nan
         )
-        df['ICD_code'] = df['ICD_code'].str.split(',')
+
+        totalPatients = df
+        df = df[df['ICD_code'] != '0']
+        #totalPatients = df
+        #df['ICD_code'] = df['ICD_code'].astype(str).apply(lambda x: x.split(','))
+        df.loc[:, 'ICD_code'] = df['ICD_code'].astype(str).apply(lambda x: x.split(','))
         df = df.explode('ICD_code')
         df['ICD_code'] = df['ICD_code'].fillna('Unknown')
         df[['Codes', 'Diseases']] = df['ICD_code'].str.extract(r'\(([^)]+)\)\s*(.*)')
@@ -34,13 +40,14 @@ def load_and_process_data():
         df = df.apply(lambda x: x.str.strip() if x.dtype == 'object' else x)
         df_unspecified = df[df['Codes'].isna()]
         df_clean = df[~df['Codes'].isna()]
-        return df, df_unspecified, df_clean
+        return df, df_unspecified, df_clean, totalPatients
     except Exception as e:
         st.error(f"Error loading data: {str(e)}")
         return None, None, None
 
 # Load data
-df, df_unspecified, df_clean = load_and_process_data()
+df, df_unspecified, df_clean, totalPatients = load_and_process_data()
+totalPatients = totalPatients[(totalPatients['age'] >= min_age) & (totalPatients['age'] <= max_age)]
 df = df[(df['age'] >= min_age) & (df['age'] <= max_age)]
 df_unspecified = df_unspecified[(df_unspecified['age'] >= min_age) & (df_unspecified['age'] <= max_age)]
 df_clean = df_clean[(df_clean['age'] >= min_age) & (df_clean['age'] <= max_age)]
@@ -55,7 +62,7 @@ def get_age_group(age):
     elif age < 50: return '30-49'
     else: return '50+'
 
-tab1, tab2, tab3, tab4 = st.tabs(["Overview", "Age Analysis", "Disease Distribution", "Comorbidity Matrix"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Age Analysis", "Disease Distribution", "Comorbidity Matrix","Second Dashboard"])
 
 # Tab 1: Overview
 with tab1:
@@ -67,10 +74,11 @@ with tab1:
     filtered_df_unspecified = df_unspecified
     
     col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Total Patients", df['id'].nunique())
-    col2.metric("Total Patients Explode Count", len(filtered_df))
-    col3.metric("Unspecified Diseases Count", len(filtered_df_unspecified))
-    col4.metric("Clean Diseases Count", len(filtered_df_clean))
+    col1.metric("Total number of Patients", len(totalPatients) )
+    col2.metric("Patients with unspecified ICD10 Code", len(totalPatients) - len(filtered_df_clean['id'].unique()))
+    col3.metric("Patient with ICD10 Code", len(filtered_df_clean['id'].unique()))
+    col4.metric("Patients with 2 or more ICD10 codes", len(df_clean['id'].value_counts()[lambda x: x >= 2]))
+
     
     col_raw, col_chart = st.columns(2)
     with col_raw:
@@ -181,8 +189,8 @@ with tab3:
 with tab4:
     st.title("Comorbidity Matrix")
     #filter_list = ['E11.9', 'E78.5', 'E66.9', 'E78.2', 'R73.03', 'K21.9', 'M54.50', 'E78.49', 'E03.9']
-    filter_list = filtered_df_clean['Codes'].dropna().value_counts().head(10).index
-    selected_codes = st.multiselect("Select ICD Codes", options=filter_list, default=filter_list[:3])
+    filter_list = filtered_df_clean['Codes'].dropna().value_counts().index[:10]  
+    selected_codes = st.multiselect("Select ICD Codes", options=filter_list, default=list(filter_list[:3]))
     
     if selected_codes:
         #df_filtered = df_clean[(df_clean['Codes'].isin(selected_codes)) & (df_clean['age'] >= min_age) & (df_clean['age'] <= max_age)]
@@ -194,3 +202,7 @@ with tab4:
             st.plotly_chart(fig)
         else:
             st.warning("No data matches the selected filters.")
+
+with tab5:
+    st.markdown("<a href='http://52.14.210.82:8501' target='_blank'>Click here to go to Second Dashboard</a>", unsafe_allow_html=True)
+    #st.markdown("<a href='https://www.example.com' target='_blank'>Click here to go to another webpage</a>", unsafe_allow_html=True)
