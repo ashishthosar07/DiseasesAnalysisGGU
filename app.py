@@ -105,7 +105,8 @@ def get_age_group(age):
 
 def run_llm_visualization(query, data,option):
     load_dotenv()
-    groq_api_key = os.environ.get('GROQ_API_KEY')
+    #groq_api_key = os.environ.get('GROQ_API_KEY')
+    groq_api_key = st.secrets["api_keys"]["GROQ_API_KEY"]
     
     if not groq_api_key:
         st.error("GROQ API key not found. Please check your .env file.")
