@@ -10,6 +10,7 @@ import ast
 import numpy as np
 from datetime import datetime
 import re
+import gdown
 
 
 
@@ -68,7 +69,18 @@ def extract_code_from_response(raw_response):
 @st.cache_data
 def load_and_process_data():
     try:
-        df = pd.read_csv('Patient Data Updated.csv')
+        
+        file_id = st.secrets["api_keys"]["FILE_ID"]
+        url = f"https://drive.google.com/uc?id={file_id}"
+        
+        output = "file.csv"
+        gdown.download(url, output, quiet=False)
+        
+        # Read the CSV file
+        df = pd.read_csv(output)
+    
+        
+        #df = pd.read_csv('Patient Data Updated.csv')
         df['birthdate'] = pd.to_datetime(df['birthdate'], errors='coerce')
         now = datetime.now()
         df['age'] = df['birthdate'].apply(
