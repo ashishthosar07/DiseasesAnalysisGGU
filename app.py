@@ -19,6 +19,47 @@ SAVED_CHARTS_DIR = Path("saved_charts")
 SAVED_CHARTS_DIR.mkdir(exist_ok=True)
 SAVED_CHARTS_FILE = SAVED_CHARTS_DIR / "saved_charts.pkl"
 
+
+def run_llm_analysis(chart_code, data, option):
+    """Generate analysis for a visualization using the LLM"""
+    
+    groq_api_key = st.secrets["api_keys"]["GROQ_API_KEY"]
+    # load_dotenv()
+    # groq_api_key = os.environ.get('GROQ_API_KEY')
+    
+    if not groq_api_key:
+        st.error("GROQ API key not found. Please check your .env file.")
+        return "Analysis could not be generated due to missing API key."
+    
+    # Initialize LLM
+    llm = ChatGroq(groq_api_key=groq_api_key, model_name=option, temperature=0.2)
+    
+    # Create prompt for analysis
+    prompt = f"""
+    Analyze the following visualization code and data to provide 3-4 concise, insightful sentences about what the chart shows.
+    Focus on key trends, patterns, outliers, or significant findings.
+    
+    Visualization code:
+    {chart_code}
+    
+    Data sample (first 5 rows):
+    {data.head(5).to_string()}
+    
+    Your analysis should be straightforward and objective, addressing what a healthcare professional would find most relevant.
+    """
+    
+    # Get response from LLM
+    try:
+        response = llm.invoke(prompt)
+        analysis = response.content if hasattr(response, 'content') else str(response)
+        # Clean up the response to ensure it's just the analysis text
+        analysis = analysis.replace("Analysis:", "").strip()
+        return analysis
+    except Exception as e:
+        st.error(f"Error generating analysis: {str(e)}")
+        return "Analysis could not be generated due to an error."
+
+
 # Function to load saved charts from disk
 def load_saved_charts():
     if SAVED_CHARTS_FILE.exists():
@@ -182,23 +223,21 @@ def run_llm_visualization(query, data, option):
 
 
 
-def execute_visualization_code(code, data):
-    """Execute the visualization code with proper error handling"""
+def execute_visualization_code(code, data, option):
+    """Execute the visualization code with proper error handling and generate analysis"""
     if not code:
-        return False
+        return False, None
         
     try:
         # Validate syntax
         if not validate_python_syntax(code):
             raise SyntaxError("Invalid Python syntax in generated code")
         
-
         required = ["fig", "st.plotly_chart"]
         if not all(req in code for req in required):
             missing = [req for req in required if req not in code]
             raise ValueError(f"Missing required elements: {', '.join(missing)}")
         
-
         exec_globals = {
             'pd': pd,
             'go': go,
@@ -210,8 +249,17 @@ def execute_visualization_code(code, data):
         }
         
         exec(code, exec_globals)
+        
+        # Generate analysis for the chart
+        with st.spinner("Generating chart analysis..."):
+            analysis = run_llm_analysis(code, data, option)
+            
+            # Display the analysis
+            st.subheader("Chart Analysis:")
+            st.write(analysis)
+        
         st.success("Visualization rendered successfully!")
-        return True
+        return True, analysis
         
     except Exception as e:
         st.error(f"Execution error: {str(e)}")
@@ -220,7 +268,8 @@ def execute_visualization_code(code, data):
         st.write("- Ensure query specifies existing numerical/categorical columns")
         st.write("- Try being more specific in your query")
         st.write(f"- Available columns: {', '.join(data.columns)}")
-        return False
+        return False, None
+
 
 def agent_tab(df_clean):
     #st.title("Medical Data Visualization")
@@ -234,6 +283,9 @@ def agent_tab(df_clean):
     
     if "current_query" not in st.session_state:
         st.session_state.current_query = ""
+        
+    if "current_analysis" not in st.session_state:
+        st.session_state.current_analysis = None
     
     # Check if we can save the chart (either there's a query result or visualization has been generated)
     can_save = st.session_state.query_result is not None
@@ -242,7 +294,6 @@ def agent_tab(df_clean):
         data = df_clean[['id', 'ICD_code', 'age']].copy()
         data.rename(columns={'id': 'patient_id', 'ICD_code': 'Diseases'}, inplace=True)
         
-
         st.markdown("### Available data columns:")
         st.info(f"You can query about: {', '.join(data.columns)}")
         
@@ -267,6 +318,7 @@ def agent_tab(df_clean):
         if clear_button:
             st.session_state.query_result = None
             st.session_state.current_query = ""
+            st.session_state.current_analysis = None
             st.rerun()
             
         if submit_button and query:
@@ -274,6 +326,9 @@ def agent_tab(df_clean):
             if is_count_query(query):
                 st.session_state.query_result = f"Count Result: {data.shape[0]}"
                 st.write(st.session_state.query_result)
+                st.session_state.current_analysis = f"The dataset contains {data.shape[0]} total records. This represents the number of disease diagnoses in the filtered dataset, which may include multiple diagnoses per patient."
+                st.subheader("Analysis:")
+                st.write(st.session_state.current_analysis)
             else:
                 with st.spinner("Generating visualization..."):
                     code = run_llm_visualization(query, data, option)
@@ -282,11 +337,14 @@ def agent_tab(df_clean):
                         # Always store the code in session state if it's valid
                         st.session_state.query_result = code
                         
-                        # Display the generated code
-                        #with st.expander("View Generated Code", expanded=False):
-                            #st.code(code, language='python')
+                        # Execute the code and get analysis
+                        success, analysis = execute_visualization_code(code, data, option)
                         
-                        success = execute_visualization_code(code, data)
+                        # Store the analysis
+                        if analysis:
+                            st.session_state.current_analysis = analysis
+                        else:
+                            st.session_state.current_analysis = "No analysis generated for this visualization."
                         
                         if not success:
                             st.warning("Visualization rendered with warnings. You can still save it, but it may not display correctly.")
@@ -297,10 +355,11 @@ def agent_tab(df_clean):
             if "saved_charts" not in st.session_state:
                 st.session_state.saved_charts = []
                 
-            # Save the chart with query as title
+            # Save the chart with query as title and include analysis
             chart_info = {
                 "title": st.session_state.current_query,
                 "code": st.session_state.query_result,
+                "analysis": st.session_state.current_analysis,
                 "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             }
             
@@ -312,6 +371,8 @@ def agent_tab(df_clean):
     except Exception as e:
         st.error(f"Error in visualization tab: {str(e)}")
 
+
+# Also modify the saved_charts_tab function to display the saved analysis
 def saved_charts_tab(df_clean):
     st.title("Saved Charts")
     
@@ -349,6 +410,11 @@ def saved_charts_tab(df_clean):
                 except Exception as e:
                     st.error(f"Error rendering saved chart: {str(e)}")
                     st.code(chart['code'])
+            
+            # Display the analysis if available
+            if "analysis" in chart and chart["analysis"]:
+                st.subheader("Chart Analysis:")
+                st.write(chart["analysis"])
             
             # Add delete button for each chart
             if st.button(f"Delete Chart", key=f"delete_{i}"):
