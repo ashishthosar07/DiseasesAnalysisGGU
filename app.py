@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
@@ -10,8 +9,35 @@ import ast
 import numpy as np
 from datetime import datetime
 import re
+import gdown
+import json
+import pickle
+from pathlib import Path
 
+# Create a directory for storing saved charts if it doesn't exist
+SAVED_CHARTS_DIR = Path("saved_charts")
+SAVED_CHARTS_DIR.mkdir(exist_ok=True)
+SAVED_CHARTS_FILE = SAVED_CHARTS_DIR / "saved_charts.pkl"
 
+# Function to load saved charts from disk
+def load_saved_charts():
+    if SAVED_CHARTS_FILE.exists():
+        try:
+            with open(SAVED_CHARTS_FILE, "rb") as f:
+                return pickle.load(f)
+        except Exception as e:
+            st.error(f"Error loading saved charts: {e}")
+    return []
+
+# Function to save charts to disk
+def save_charts_to_disk(charts):
+    try:
+        with open(SAVED_CHARTS_FILE, "wb") as f:
+            pickle.dump(charts, f)
+        return True
+    except Exception as e:
+        st.error(f"Error saving charts to disk: {e}")
+        return False
 
 # Authentication functions
 def authenticate_user(username, password):
@@ -68,7 +94,16 @@ def extract_code_from_response(raw_response):
 @st.cache_data
 def load_and_process_data():
     try:
-        df = pd.read_csv('Patient Data Updated.csv')
+        
+        file_id = st.secrets["api_keys"]["FILE_ID"]
+        url = f"https://drive.google.com/uc?id={file_id}"
+        
+        output = "file.csv"
+        gdown.download(url, output, quiet=False)
+        df = pd.read_csv(output)
+    
+        
+        #df = pd.read_csv('Patient Data Updated.csv')
         df['birthdate'] = pd.to_datetime(df['birthdate'], errors='coerce')
         now = datetime.now()
         df['age'] = df['birthdate'].apply(
@@ -103,9 +138,10 @@ def get_age_group(age):
     elif age < 50: return '30-49'
     else: return '50+'
 
-def run_llm_visualization(query, data,option):
+def run_llm_visualization(query, data, option):
     load_dotenv()
-    groq_api_key = os.environ.get('GROQ_API_KEY')
+    #groq_api_key = os.environ.get('GROQ_API_KEY')
+    groq_api_key = st.secrets["api_keys"]["GROQ_API_KEY"]
     
     if not groq_api_key:
         st.error("GROQ API key not found. Please check your .env file.")
@@ -189,10 +225,18 @@ def execute_visualization_code(code, data):
 def agent_tab(df_clean):
     #st.title("Medical Data Visualization")
     
-
+    # Initialize saved_charts from disk if not in session state
+    if "saved_charts" not in st.session_state:
+        st.session_state.saved_charts = load_saved_charts()
+    
     if "query_result" not in st.session_state:
         st.session_state.query_result = None
     
+    if "current_query" not in st.session_state:
+        st.session_state.current_query = ""
+    
+    # Check if we can save the chart (either there's a query result or visualization has been generated)
+    can_save = st.session_state.query_result is not None
 
     try:
         data = df_clean[['id', 'ICD_code', 'age']].copy()
@@ -204,12 +248,15 @@ def agent_tab(df_clean):
         
         query = st.text_input("Enter your query (e.g., 'top 10 diseases bar chart and pie chart','top 10 diseases pie chart', 'show distribution of age groups')")
         
-        col1, col2, col3 = st.columns([1, 1,4])
+        col1, col2, col3, col4 = st.columns([1, 1, 1, 3])
         with col1:
             submit_button = st.button(":sparkles: Generate Visualization", use_container_width=True)
         with col2:
             clear_button = st.button(":wastebasket: Clear Results", use_container_width=True)
         with col3:
+            # Use the can_save variable to determine if the save button should be disabled
+            save_button = st.button(":floppy_disk: Save Chart", use_container_width=True, disabled=not can_save)
+        with col4:
             option = st.selectbox(
                 "Select LLM Model to try",
                 ("llama3-70b-8192", "llama-3.3-70b-versatile", "llama-3.1-8b-instant","llama-guard-3-8b","llama3-8b-8192","distil-whisper-large-v3-en","gemma2-9b-it","mixtral-8x7b-32768","whisper-large-v3","whisper-large-v3-turbo"),
@@ -219,36 +266,111 @@ def agent_tab(df_clean):
             
         if clear_button:
             st.session_state.query_result = None
+            st.session_state.current_query = ""
             st.rerun()
             
         if submit_button and query:
+            st.session_state.current_query = query
             if is_count_query(query):
-
                 st.session_state.query_result = f"Count Result: {data.shape[0]}"
                 st.write(st.session_state.query_result)
             else:
                 with st.spinner("Generating visualization..."):
-
-                    code = run_llm_visualization(query, data,option)
+                    code = run_llm_visualization(query, data, option)
                     
                     if code:
+                        # Always store the code in session state if it's valid
+                        st.session_state.query_result = code
+                        
                         # Display the generated code
                         #with st.expander("View Generated Code", expanded=False):
                             #st.code(code, language='python')
                         
                         success = execute_visualization_code(code, data)
                         
-                        if success:
-                            st.session_state.query_result = code
+                        if not success:
+                            st.warning("Visualization rendered with warnings. You can still save it, but it may not display correctly.")
         
+        # Save chart to session state when save button is clicked
+        # Note: We'll save the chart even if execution had issues, as the user might want to debug it later
+        if save_button and st.session_state.query_result:
+            if "saved_charts" not in st.session_state:
+                st.session_state.saved_charts = []
+                
+            # Save the chart with query as title
+            chart_info = {
+                "title": st.session_state.current_query,
+                "code": st.session_state.query_result,
+                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            }
+            
+            st.session_state.saved_charts.append(chart_info)
+            # Save to disk
+            save_charts_to_disk(st.session_state.saved_charts)
+            st.success("Chart saved successfully! View it in the 'Saved Charts' tab.")
             
     except Exception as e:
         st.error(f"Error in visualization tab: {str(e)}")
+
+def saved_charts_tab(df_clean):
+    st.title("Saved Charts")
+    
+    # Load charts from disk if not in session state
+    if "saved_charts" not in st.session_state:
+        st.session_state.saved_charts = load_saved_charts()
+    
+    if not st.session_state.saved_charts:
+        st.info("No charts have been saved yet. Generate and save charts from the 'Ask Agent' tab.")
+        return
+    
+    data = df_clean[['id', 'ICD_code', 'age']].copy()
+    data.rename(columns={'id': 'patient_id', 'ICD_code': 'Diseases'}, inplace=True)
+    
+    # Display saved charts
+    charts_to_delete = []
+    
+    for i, chart in enumerate(st.session_state.saved_charts):
+        with st.expander(f"{chart['title']} (Saved on {chart['timestamp']})", expanded=True):
+            if chart['code'].startswith("Count Result:"):
+                st.write(chart['code'])
+            else:
+                try:
+                    exec_globals = {
+                        'pd': pd,
+                        'go': go,
+                        'px': px,
+                        'st': st,
+                        'data': data,
+                        'np': np,
+                        '__builtins__': __builtins__
+                    }
+                    
+                    exec(chart['code'], exec_globals)
+                except Exception as e:
+                    st.error(f"Error rendering saved chart: {str(e)}")
+                    st.code(chart['code'])
+            
+            # Add delete button for each chart
+            if st.button(f"Delete Chart", key=f"delete_{i}"):
+                charts_to_delete.append(i)
+    
+    # Delete charts (doing it outside the loop to avoid index issues)
+    if charts_to_delete:
+        # Sort in reverse order to avoid index shifting problems
+        for idx in sorted(charts_to_delete, reverse=True):
+            st.session_state.saved_charts.pop(idx)
+        # Save to disk after deletion
+        save_charts_to_disk(st.session_state.saved_charts)
+        st.success("Chart(s) deleted successfully!")
+        st.rerun()
 
 def main_app():
     st.set_page_config(page_title="LLM-Powered Diseases Analysis Dashboard", layout="wide")
     st.title(":brain: LLM-Powered Diseases Analysis")
 
+    # Load charts from disk at app startup
+    if "saved_charts" not in st.session_state:
+        st.session_state.saved_charts = load_saved_charts()
 
     st.header(":bar_chart: Age Filters")
     min_age, max_age = st.slider("Select Age Range", 0, 105, (10, 50), step=10)
@@ -273,9 +395,9 @@ def main_app():
         st.session_state.active_tab = tab_name
 
 
-
-    tabs = ["Overview", "Age Analysis", "Disease Distribution", "Comorbidity Matrix", "Ask Agent", "Second Dashboard"]
-    selected_tab = st.radio("Navigate to:", tabs, index=tabs.index(st.session_state.active_tab), key="tab_selector",horizontal=True)
+    # Added "Saved Charts" tab
+    tabs = ["Overview", "Age Analysis", "Disease Distribution", "Comorbidity Matrix", "Ask Agent", "Saved Charts", "Second Dashboard"]
+    selected_tab = st.radio("Navigate to:", tabs, index=tabs.index(st.session_state.active_tab), key="tab_selector", horizontal=True)
 
     switch_tab(selected_tab)
 
@@ -384,12 +506,17 @@ def main_app():
                 else:
                     st.warning("No data matches the selected filters.")
 
-    # Tab 5: Ask Agent (Optimized)
+    # Tab 5: Ask Agent (Modified with save button)
     elif st.session_state.active_tab == "Ask Agent":
         with st.spinner("Loading Ask Agent..."):
             agent_tab(df_clean)
+    
+    # Tab 6: New Saved Charts tab
+    elif st.session_state.active_tab == "Saved Charts":
+        with st.spinner("Loading Saved Charts..."):
+            saved_charts_tab(df_clean)
         
-    # Tab 6: Second Dashboard
+    # Tab 7: Second Dashboard
     elif st.session_state.active_tab == "Second Dashboard":
         st.markdown("<a href='http://52.14.210.82:8501' target='_blank'>Click here to go to Second Dashboard</a>", unsafe_allow_html=True)
 
